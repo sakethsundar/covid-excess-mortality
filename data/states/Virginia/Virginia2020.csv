@@ -1,0 +1,3061 @@
+DEATH_YEAR,WEEK_NUM,FIPS,COUNTY,NUMBER_OF_DEATHS
+2020,1,1,ACCOMACK             ,6
+2020,2,1,ACCOMACK             ,11
+2020,3,1,ACCOMACK             ,7
+2020,4,1,ACCOMACK             ,10
+2020,5,1,ACCOMACK             ,9
+2020,6,1,ACCOMACK             ,11
+2020,7,1,ACCOMACK             ,0
+2020,8,1,ACCOMACK             ,14
+2020,9,1,ACCOMACK             ,9
+2020,10,1,ACCOMACK             ,8
+2020,11,1,ACCOMACK             ,8
+2020,12,1,ACCOMACK             ,6
+2020,13,1,ACCOMACK             ,13
+2020,14,1,ACCOMACK             ,9
+2020,15,1,ACCOMACK             ,9
+2020,16,1,ACCOMACK             ,8
+2020,17,1,ACCOMACK             ,9
+2020,18,1,ACCOMACK             ,14
+2020,19,1,ACCOMACK             ,12
+2020,20,1,ACCOMACK             ,8
+2020,21,1,ACCOMACK             ,12
+2020,22,1,ACCOMACK             ,6
+2020,23,1,ACCOMACK             ,10
+2020,24,1,ACCOMACK             ,4
+2020,25,1,ACCOMACK             ,1
+2020,1,3,ALBEMARLE            ,20
+2020,2,3,ALBEMARLE            ,23
+2020,3,3,ALBEMARLE            ,24
+2020,4,3,ALBEMARLE            ,31
+2020,5,3,ALBEMARLE            ,32
+2020,6,3,ALBEMARLE            ,21
+2020,7,3,ALBEMARLE            ,18
+2020,8,3,ALBEMARLE            ,30
+2020,9,3,ALBEMARLE            ,25
+2020,10,3,ALBEMARLE            ,17
+2020,11,3,ALBEMARLE            ,25
+2020,12,3,ALBEMARLE            ,26
+2020,13,3,ALBEMARLE            ,25
+2020,14,3,ALBEMARLE            ,28
+2020,15,3,ALBEMARLE            ,25
+2020,16,3,ALBEMARLE            ,18
+2020,17,3,ALBEMARLE            ,19
+2020,18,3,ALBEMARLE            ,32
+2020,19,3,ALBEMARLE            ,22
+2020,20,3,ALBEMARLE            ,22
+2020,21,3,ALBEMARLE            ,13
+2020,22,3,ALBEMARLE            ,20
+2020,23,3,ALBEMARLE            ,23
+2020,24,3,ALBEMARLE            ,17
+2020,25,3,ALBEMARLE            ,9
+2020,1,510,ALEXANDRIA                  ,26
+2020,2,510,ALEXANDRIA                  ,12
+2020,3,510,ALEXANDRIA                  ,13
+2020,4,510,ALEXANDRIA                  ,16
+2020,5,510,ALEXANDRIA                  ,20
+2020,6,510,ALEXANDRIA                  ,15
+2020,7,510,ALEXANDRIA                  ,20
+2020,8,510,ALEXANDRIA                  ,21
+2020,9,510,ALEXANDRIA                  ,17
+2020,10,510,ALEXANDRIA                  ,9
+2020,11,510,ALEXANDRIA                  ,17
+2020,12,510,ALEXANDRIA                  ,29
+2020,13,510,ALEXANDRIA                  ,17
+2020,14,510,ALEXANDRIA                  ,25
+2020,15,510,ALEXANDRIA                  ,35
+2020,16,510,ALEXANDRIA                  ,34
+2020,17,510,ALEXANDRIA                  ,31
+2020,18,510,ALEXANDRIA                  ,22
+2020,19,510,ALEXANDRIA                  ,18
+2020,20,510,ALEXANDRIA                  ,23
+2020,21,510,ALEXANDRIA                  ,23
+2020,22,510,ALEXANDRIA                  ,13
+2020,23,510,ALEXANDRIA                  ,20
+2020,24,510,ALEXANDRIA                  ,18
+2020,25,510,ALEXANDRIA                  ,5
+2020,1,5,ALLEGHANY            ,8
+2020,2,5,ALLEGHANY            ,7
+2020,3,5,ALLEGHANY            ,5
+2020,4,5,ALLEGHANY            ,6
+2020,5,5,ALLEGHANY            ,1
+2020,6,5,ALLEGHANY            ,6
+2020,7,5,ALLEGHANY            ,6
+2020,8,5,ALLEGHANY            ,4
+2020,9,5,ALLEGHANY            ,2
+2020,10,5,ALLEGHANY            ,0
+2020,11,5,ALLEGHANY            ,3
+2020,12,5,ALLEGHANY            ,2
+2020,13,5,ALLEGHANY            ,1
+2020,14,5,ALLEGHANY            ,4
+2020,15,5,ALLEGHANY            ,0
+2020,16,5,ALLEGHANY            ,7
+2020,17,5,ALLEGHANY            ,6
+2020,18,5,ALLEGHANY            ,2
+2020,19,5,ALLEGHANY            ,6
+2020,20,5,ALLEGHANY            ,4
+2020,21,5,ALLEGHANY            ,2
+2020,22,5,ALLEGHANY            ,4
+2020,23,5,ALLEGHANY            ,2
+2020,24,5,ALLEGHANY            ,4
+2020,25,5,ALLEGHANY            ,3
+2020,1,7,AMELIA               ,1
+2020,2,7,AMELIA               ,4
+2020,3,7,AMELIA               ,2
+2020,4,7,AMELIA               ,1
+2020,6,7,AMELIA               ,6
+2020,7,7,AMELIA               ,5
+2020,8,7,AMELIA               ,3
+2020,9,7,AMELIA               ,4
+2020,10,7,AMELIA               ,6
+2020,11,7,AMELIA               ,1
+2020,12,7,AMELIA               ,1
+2020,13,7,AMELIA               ,6
+2020,14,7,AMELIA               ,2
+2020,15,7,AMELIA               ,0
+2020,16,7,AMELIA               ,1
+2020,17,7,AMELIA               ,1
+2020,18,7,AMELIA               ,0
+2020,19,7,AMELIA               ,2
+2020,20,7,AMELIA               ,4
+2020,21,7,AMELIA               ,4
+2020,22,7,AMELIA               ,1
+2020,23,7,AMELIA               ,1
+2020,24,7,AMELIA               ,0
+2020,25,7,AMELIA               ,1
+2020,1,9,AMHERST              ,0
+2020,2,9,AMHERST              ,0
+2020,3,9,AMHERST              ,1
+2020,4,9,AMHERST              ,6
+2020,5,9,AMHERST              ,1
+2020,6,9,AMHERST              ,3
+2020,7,9,AMHERST              ,6
+2020,8,9,AMHERST              ,0
+2020,9,9,AMHERST              ,3
+2020,10,9,AMHERST              ,3
+2020,12,9,AMHERST              ,2
+2020,13,9,AMHERST              ,5
+2020,14,9,AMHERST              ,4
+2020,15,9,AMHERST              ,0
+2020,16,9,AMHERST              ,1
+2020,17,9,AMHERST              ,2
+2020,18,9,AMHERST              ,0
+2020,19,9,AMHERST              ,6
+2020,20,9,AMHERST              ,4
+2020,21,9,AMHERST              ,3
+2020,22,9,AMHERST              ,5
+2020,23,9,AMHERST              ,3
+2020,25,9,AMHERST              ,2
+2020,1,11,APPOMATTOX           ,5
+2020,2,11,APPOMATTOX           ,1
+2020,3,11,APPOMATTOX           ,2
+2020,4,11,APPOMATTOX           ,1
+2020,5,11,APPOMATTOX           ,0
+2020,6,11,APPOMATTOX           ,2
+2020,9,11,APPOMATTOX           ,3
+2020,10,11,APPOMATTOX           ,2
+2020,11,11,APPOMATTOX           ,3
+2020,12,11,APPOMATTOX           ,0
+2020,13,11,APPOMATTOX           ,5
+2020,14,11,APPOMATTOX           ,4
+2020,15,11,APPOMATTOX           ,4
+2020,16,11,APPOMATTOX           ,1
+2020,17,11,APPOMATTOX           ,3
+2020,18,11,APPOMATTOX           ,1
+2020,20,11,APPOMATTOX           ,0
+2020,21,11,APPOMATTOX           ,3
+2020,22,11,APPOMATTOX           ,0
+2020,23,11,APPOMATTOX           ,0
+2020,24,11,APPOMATTOX           ,2
+2020,25,11,APPOMATTOX           ,0
+2020,1,13,ARLINGTON            ,34
+2020,2,13,ARLINGTON            ,32
+2020,3,13,ARLINGTON            ,38
+2020,4,13,ARLINGTON            ,34
+2020,5,13,ARLINGTON            ,33
+2020,6,13,ARLINGTON            ,35
+2020,7,13,ARLINGTON            ,24
+2020,8,13,ARLINGTON            ,27
+2020,9,13,ARLINGTON            ,29
+2020,10,13,ARLINGTON            ,31
+2020,11,13,ARLINGTON            ,20
+2020,12,13,ARLINGTON            ,25
+2020,13,13,ARLINGTON            ,22
+2020,14,13,ARLINGTON            ,29
+2020,15,13,ARLINGTON            ,49
+2020,16,13,ARLINGTON            ,60
+2020,17,13,ARLINGTON            ,48
+2020,18,13,ARLINGTON            ,48
+2020,19,13,ARLINGTON            ,41
+2020,20,13,ARLINGTON            ,34
+2020,21,13,ARLINGTON            ,30
+2020,22,13,ARLINGTON            ,40
+2020,23,13,ARLINGTON            ,22
+2020,24,13,ARLINGTON            ,24
+2020,25,13,ARLINGTON            ,5
+2020,1,15,AUGUSTA              ,19
+2020,2,15,AUGUSTA              ,18
+2020,3,15,AUGUSTA              ,16
+2020,4,15,AUGUSTA              ,12
+2020,5,15,AUGUSTA              ,18
+2020,6,15,AUGUSTA              ,22
+2020,7,15,AUGUSTA              ,21
+2020,8,15,AUGUSTA              ,16
+2020,9,15,AUGUSTA              ,14
+2020,10,15,AUGUSTA              ,22
+2020,11,15,AUGUSTA              ,10
+2020,12,15,AUGUSTA              ,20
+2020,13,15,AUGUSTA              ,16
+2020,14,15,AUGUSTA              ,20
+2020,15,15,AUGUSTA              ,12
+2020,16,15,AUGUSTA              ,19
+2020,17,15,AUGUSTA              ,22
+2020,18,15,AUGUSTA              ,12
+2020,19,15,AUGUSTA              ,19
+2020,20,15,AUGUSTA              ,22
+2020,21,15,AUGUSTA              ,14
+2020,22,15,AUGUSTA              ,21
+2020,23,15,AUGUSTA              ,24
+2020,24,15,AUGUSTA              ,19
+2020,25,15,AUGUSTA              ,5
+2020,1,17,BATH                 ,1
+2020,2,17,BATH                 ,0
+2020,4,17,BATH                 ,2
+2020,5,17,BATH                 ,1
+2020,6,17,BATH                 ,4
+2020,7,17,BATH                 ,4
+2020,8,17,BATH                 ,1
+2020,9,17,BATH                 ,4
+2020,10,17,BATH                 ,0
+2020,11,17,BATH                 ,2
+2020,12,17,BATH                 ,0
+2020,13,17,BATH                 ,4
+2020,14,17,BATH                 ,0
+2020,15,17,BATH                 ,1
+2020,16,17,BATH                 ,3
+2020,18,17,BATH                 ,1
+2020,19,17,BATH                 ,0
+2020,22,17,BATH                 ,2
+2020,23,17,BATH                 ,4
+2020,24,17,BATH                 ,0
+2020,1,19,BEDFORD              ,17
+2020,2,19,BEDFORD              ,8
+2020,3,19,BEDFORD              ,9
+2020,4,19,BEDFORD              ,12
+2020,5,19,BEDFORD              ,11
+2020,6,19,BEDFORD              ,18
+2020,7,19,BEDFORD              ,13
+2020,8,19,BEDFORD              ,11
+2020,9,19,BEDFORD              ,12
+2020,10,19,BEDFORD              ,14
+2020,11,19,BEDFORD              ,21
+2020,12,19,BEDFORD              ,11
+2020,13,19,BEDFORD              ,10
+2020,14,19,BEDFORD              ,11
+2020,15,19,BEDFORD              ,16
+2020,16,19,BEDFORD              ,13
+2020,17,19,BEDFORD              ,10
+2020,18,19,BEDFORD              ,13
+2020,19,19,BEDFORD              ,11
+2020,20,19,BEDFORD              ,9
+2020,21,19,BEDFORD              ,14
+2020,22,19,BEDFORD              ,16
+2020,23,19,BEDFORD              ,15
+2020,24,19,BEDFORD              ,10
+2020,25,19,BEDFORD              ,5
+2020,1,21,BLAND                ,0
+2020,3,21,BLAND                ,4
+2020,4,21,BLAND                ,0
+2020,5,21,BLAND                ,0
+2020,6,21,BLAND                ,2
+2020,7,21,BLAND                ,0
+2020,9,21,BLAND                ,0
+2020,10,21,BLAND                ,1
+2020,11,21,BLAND                ,2
+2020,13,21,BLAND                ,2
+2020,15,21,BLAND                ,1
+2020,16,21,BLAND                ,4
+2020,18,21,BLAND                ,2
+2020,19,21,BLAND                ,1
+2020,20,21,BLAND                ,1
+2020,21,21,BLAND                ,2
+2020,22,21,BLAND                ,1
+2020,24,21,BLAND                ,4
+2020,1,23,BOTETOURT            ,2
+2020,2,23,BOTETOURT            ,0
+2020,3,23,BOTETOURT            ,9
+2020,4,23,BOTETOURT            ,0
+2020,5,23,BOTETOURT            ,4
+2020,6,23,BOTETOURT            ,1
+2020,7,23,BOTETOURT            ,0
+2020,8,23,BOTETOURT            ,0
+2020,9,23,BOTETOURT            ,5
+2020,10,23,BOTETOURT            ,1
+2020,11,23,BOTETOURT            ,5
+2020,12,23,BOTETOURT            ,6
+2020,13,23,BOTETOURT            ,2
+2020,14,23,BOTETOURT            ,4
+2020,15,23,BOTETOURT            ,0
+2020,16,23,BOTETOURT            ,6
+2020,17,23,BOTETOURT            ,6
+2020,18,23,BOTETOURT            ,7
+2020,19,23,BOTETOURT            ,6
+2020,20,23,BOTETOURT            ,3
+2020,21,23,BOTETOURT            ,6
+2020,22,23,BOTETOURT            ,5
+2020,23,23,BOTETOURT            ,8
+2020,24,23,BOTETOURT            ,0
+2020,25,23,BOTETOURT            ,4
+2020,1,520,BRISTOL                     ,4
+2020,2,520,BRISTOL                     ,7
+2020,3,520,BRISTOL                     ,0
+2020,4,520,BRISTOL                     ,4
+2020,5,520,BRISTOL                     ,7
+2020,6,520,BRISTOL                     ,1
+2020,7,520,BRISTOL                     ,8
+2020,8,520,BRISTOL                     ,3
+2020,9,520,BRISTOL                     ,5
+2020,10,520,BRISTOL                     ,2
+2020,11,520,BRISTOL                     ,5
+2020,12,520,BRISTOL                     ,1
+2020,13,520,BRISTOL                     ,2
+2020,14,520,BRISTOL                     ,5
+2020,15,520,BRISTOL                     ,3
+2020,16,520,BRISTOL                     ,6
+2020,17,520,BRISTOL                     ,1
+2020,18,520,BRISTOL                     ,2
+2020,19,520,BRISTOL                     ,3
+2020,20,520,BRISTOL                     ,4
+2020,21,520,BRISTOL                     ,3
+2020,22,520,BRISTOL                     ,2
+2020,23,520,BRISTOL                     ,0
+2020,24,520,BRISTOL                     ,1
+2020,25,520,BRISTOL                     ,2
+2020,1,25,BRUNSWICK            ,4
+2020,2,25,BRUNSWICK            ,2
+2020,3,25,BRUNSWICK            ,3
+2020,4,25,BRUNSWICK            ,5
+2020,5,25,BRUNSWICK            ,2
+2020,6,25,BRUNSWICK            ,2
+2020,7,25,BRUNSWICK            ,4
+2020,8,25,BRUNSWICK            ,3
+2020,9,25,BRUNSWICK            ,3
+2020,10,25,BRUNSWICK            ,4
+2020,13,25,BRUNSWICK            ,2
+2020,14,25,BRUNSWICK            ,0
+2020,15,25,BRUNSWICK            ,4
+2020,16,25,BRUNSWICK            ,4
+2020,17,25,BRUNSWICK            ,4
+2020,18,25,BRUNSWICK            ,3
+2020,19,25,BRUNSWICK            ,2
+2020,20,25,BRUNSWICK            ,4
+2020,21,25,BRUNSWICK            ,1
+2020,24,25,BRUNSWICK            ,0
+2020,25,25,BRUNSWICK            ,4
+2020,1,27,BUCHANAN             ,7
+2020,2,27,BUCHANAN             ,5
+2020,3,27,BUCHANAN             ,3
+2020,4,27,BUCHANAN             ,1
+2020,5,27,BUCHANAN             ,6
+2020,6,27,BUCHANAN             ,0
+2020,7,27,BUCHANAN             ,4
+2020,8,27,BUCHANAN             ,3
+2020,9,27,BUCHANAN             ,2
+2020,10,27,BUCHANAN             ,5
+2020,11,27,BUCHANAN             ,7
+2020,12,27,BUCHANAN             ,13
+2020,13,27,BUCHANAN             ,3
+2020,14,27,BUCHANAN             ,0
+2020,15,27,BUCHANAN             ,5
+2020,16,27,BUCHANAN             ,2
+2020,17,27,BUCHANAN             ,9
+2020,18,27,BUCHANAN             ,8
+2020,19,27,BUCHANAN             ,2
+2020,20,27,BUCHANAN             ,5
+2020,21,27,BUCHANAN             ,2
+2020,22,27,BUCHANAN             ,3
+2020,23,27,BUCHANAN             ,3
+2020,24,27,BUCHANAN             ,2
+2020,25,27,BUCHANAN             ,1
+2020,1,29,BUCKINGHAM           ,4
+2020,2,29,BUCKINGHAM           ,0
+2020,3,29,BUCKINGHAM           ,0
+2020,4,29,BUCKINGHAM           ,3
+2020,5,29,BUCKINGHAM           ,1
+2020,6,29,BUCKINGHAM           ,7
+2020,7,29,BUCKINGHAM           ,4
+2020,8,29,BUCKINGHAM           ,0
+2020,9,29,BUCKINGHAM           ,1
+2020,11,29,BUCKINGHAM           ,2
+2020,13,29,BUCKINGHAM           ,3
+2020,14,29,BUCKINGHAM           ,3
+2020,16,29,BUCKINGHAM           ,5
+2020,17,29,BUCKINGHAM           ,0
+2020,18,29,BUCKINGHAM           ,0
+2020,19,29,BUCKINGHAM           ,4
+2020,20,29,BUCKINGHAM           ,0
+2020,21,29,BUCKINGHAM           ,1
+2020,22,29,BUCKINGHAM           ,1
+2020,23,29,BUCKINGHAM           ,2
+2020,24,29,BUCKINGHAM           ,1
+2020,1,530,BUENA VISTA                 ,0
+2020,2,530,BUENA VISTA                 ,0
+2020,3,530,BUENA VISTA                 ,1
+2020,4,530,BUENA VISTA                 ,3
+2020,5,530,BUENA VISTA                 ,4
+2020,6,530,BUENA VISTA                 ,4
+2020,7,530,BUENA VISTA                 ,4
+2020,8,530,BUENA VISTA                 ,1
+2020,12,530,BUENA VISTA                 ,1
+2020,13,530,BUENA VISTA                 ,1
+2020,15,530,BUENA VISTA                 ,2
+2020,20,530,BUENA VISTA                 ,2
+2020,21,530,BUENA VISTA                 ,4
+2020,23,530,BUENA VISTA                 ,0
+2020,24,530,BUENA VISTA                 ,3
+2020,25,530,BUENA VISTA                 ,3
+2020,1,31,CAMPBELL             ,6
+2020,2,31,CAMPBELL             ,8
+2020,3,31,CAMPBELL             ,8
+2020,4,31,CAMPBELL             ,3
+2020,5,31,CAMPBELL             ,5
+2020,6,31,CAMPBELL             ,3
+2020,7,31,CAMPBELL             ,10
+2020,8,31,CAMPBELL             ,7
+2020,9,31,CAMPBELL             ,0
+2020,10,31,CAMPBELL             ,10
+2020,11,31,CAMPBELL             ,10
+2020,12,31,CAMPBELL             ,6
+2020,13,31,CAMPBELL             ,0
+2020,14,31,CAMPBELL             ,8
+2020,15,31,CAMPBELL             ,9
+2020,16,31,CAMPBELL             ,14
+2020,17,31,CAMPBELL             ,7
+2020,18,31,CAMPBELL             ,10
+2020,19,31,CAMPBELL             ,9
+2020,20,31,CAMPBELL             ,8
+2020,21,31,CAMPBELL             ,13
+2020,22,31,CAMPBELL             ,7
+2020,23,31,CAMPBELL             ,2
+2020,24,31,CAMPBELL             ,6
+2020,25,31,CAMPBELL             ,1
+2020,1,33,CAROLINE             ,5
+2020,2,33,CAROLINE             ,4
+2020,3,33,CAROLINE             ,1
+2020,5,33,CAROLINE             ,7
+2020,6,33,CAROLINE             ,4
+2020,7,33,CAROLINE             ,5
+2020,8,33,CAROLINE             ,6
+2020,9,33,CAROLINE             ,5
+2020,10,33,CAROLINE             ,2
+2020,11,33,CAROLINE             ,2
+2020,12,33,CAROLINE             ,3
+2020,13,33,CAROLINE             ,4
+2020,14,33,CAROLINE             ,1
+2020,15,33,CAROLINE             ,1
+2020,16,33,CAROLINE             ,2
+2020,17,33,CAROLINE             ,4
+2020,18,33,CAROLINE             ,2
+2020,19,33,CAROLINE             ,7
+2020,20,33,CAROLINE             ,4
+2020,21,33,CAROLINE             ,7
+2020,22,33,CAROLINE             ,1
+2020,23,33,CAROLINE             ,4
+2020,24,33,CAROLINE             ,1
+2020,25,33,CAROLINE             ,0
+2020,1,35,CARROLL              ,1
+2020,2,35,CARROLL              ,5
+2020,3,35,CARROLL              ,3
+2020,4,35,CARROLL              ,5
+2020,5,35,CARROLL              ,5
+2020,6,35,CARROLL              ,8
+2020,7,35,CARROLL              ,0
+2020,8,35,CARROLL              ,3
+2020,9,35,CARROLL              ,3
+2020,10,35,CARROLL              ,6
+2020,11,35,CARROLL              ,0
+2020,12,35,CARROLL              ,0
+2020,13,35,CARROLL              ,10
+2020,14,35,CARROLL              ,0
+2020,15,35,CARROLL              ,3
+2020,16,35,CARROLL              ,6
+2020,17,35,CARROLL              ,6
+2020,18,35,CARROLL              ,3
+2020,19,35,CARROLL              ,5
+2020,20,35,CARROLL              ,1
+2020,21,35,CARROLL              ,7
+2020,22,35,CARROLL              ,5
+2020,23,35,CARROLL              ,3
+2020,24,35,CARROLL              ,9
+2020,25,35,CARROLL              ,1
+2020,1,36,CHARLES CITY         ,3
+2020,2,36,CHARLES CITY         ,4
+2020,4,36,CHARLES CITY         ,3
+2020,5,36,CHARLES CITY         ,0
+2020,6,36,CHARLES CITY         ,2
+2020,8,36,CHARLES CITY         ,4
+2020,11,36,CHARLES CITY         ,1
+2020,12,36,CHARLES CITY         ,4
+2020,16,36,CHARLES CITY         ,0
+2020,17,36,CHARLES CITY         ,4
+2020,18,36,CHARLES CITY         ,3
+2020,19,36,CHARLES CITY         ,0
+2020,20,36,CHARLES CITY         ,3
+2020,22,36,CHARLES CITY         ,1
+2020,23,36,CHARLES CITY         ,4
+2020,24,36,CHARLES CITY         ,3
+2020,1,37,CHARLOTTE            ,3
+2020,2,37,CHARLOTTE            ,2
+2020,3,37,CHARLOTTE            ,3
+2020,4,37,CHARLOTTE            ,3
+2020,5,37,CHARLOTTE            ,3
+2020,6,37,CHARLOTTE            ,6
+2020,7,37,CHARLOTTE            ,0
+2020,8,37,CHARLOTTE            ,0
+2020,9,37,CHARLOTTE            ,5
+2020,10,37,CHARLOTTE            ,4
+2020,11,37,CHARLOTTE            ,4
+2020,12,37,CHARLOTTE            ,0
+2020,13,37,CHARLOTTE            ,3
+2020,14,37,CHARLOTTE            ,4
+2020,15,37,CHARLOTTE            ,3
+2020,16,37,CHARLOTTE            ,4
+2020,18,37,CHARLOTTE            ,2
+2020,19,37,CHARLOTTE            ,0
+2020,20,37,CHARLOTTE            ,5
+2020,22,37,CHARLOTTE            ,2
+2020,23,37,CHARLOTTE            ,0
+2020,24,37,CHARLOTTE            ,0
+2020,25,37,CHARLOTTE            ,4
+2020,1,540,CHARLOTTESVILLE             ,22
+2020,2,540,CHARLOTTESVILLE             ,11
+2020,3,540,CHARLOTTESVILLE             ,26
+2020,4,540,CHARLOTTESVILLE             ,28
+2020,5,540,CHARLOTTESVILLE             ,17
+2020,6,540,CHARLOTTESVILLE             ,20
+2020,7,540,CHARLOTTESVILLE             ,13
+2020,8,540,CHARLOTTESVILLE             ,14
+2020,9,540,CHARLOTTESVILLE             ,23
+2020,10,540,CHARLOTTESVILLE             ,24
+2020,11,540,CHARLOTTESVILLE             ,22
+2020,12,540,CHARLOTTESVILLE             ,20
+2020,13,540,CHARLOTTESVILLE             ,16
+2020,14,540,CHARLOTTESVILLE             ,13
+2020,15,540,CHARLOTTESVILLE             ,22
+2020,16,540,CHARLOTTESVILLE             ,18
+2020,17,540,CHARLOTTESVILLE             ,19
+2020,18,540,CHARLOTTESVILLE             ,22
+2020,19,540,CHARLOTTESVILLE             ,15
+2020,20,540,CHARLOTTESVILLE             ,17
+2020,21,540,CHARLOTTESVILLE             ,23
+2020,22,540,CHARLOTTESVILLE             ,17
+2020,23,540,CHARLOTTESVILLE             ,28
+2020,24,540,CHARLOTTESVILLE             ,18
+2020,25,540,CHARLOTTESVILLE             ,3
+2020,1,550,CHESAPEAKE                  ,33
+2020,2,550,CHESAPEAKE                  ,36
+2020,3,550,CHESAPEAKE                  ,41
+2020,4,550,CHESAPEAKE                  ,36
+2020,5,550,CHESAPEAKE                  ,37
+2020,6,550,CHESAPEAKE                  ,33
+2020,7,550,CHESAPEAKE                  ,37
+2020,8,550,CHESAPEAKE                  ,39
+2020,9,550,CHESAPEAKE                  ,31
+2020,10,550,CHESAPEAKE                  ,30
+2020,11,550,CHESAPEAKE                  ,27
+2020,12,550,CHESAPEAKE                  ,36
+2020,13,550,CHESAPEAKE                  ,40
+2020,14,550,CHESAPEAKE                  ,47
+2020,15,550,CHESAPEAKE                  ,36
+2020,16,550,CHESAPEAKE                  ,36
+2020,17,550,CHESAPEAKE                  ,38
+2020,18,550,CHESAPEAKE                  ,41
+2020,19,550,CHESAPEAKE                  ,29
+2020,20,550,CHESAPEAKE                  ,47
+2020,21,550,CHESAPEAKE                  ,32
+2020,22,550,CHESAPEAKE                  ,25
+2020,23,550,CHESAPEAKE                  ,29
+2020,24,550,CHESAPEAKE                  ,28
+2020,25,550,CHESAPEAKE                  ,9
+2020,1,41,CHESTERFIELD         ,57
+2020,2,41,CHESTERFIELD         ,72
+2020,3,41,CHESTERFIELD         ,41
+2020,4,41,CHESTERFIELD         ,46
+2020,5,41,CHESTERFIELD         ,56
+2020,6,41,CHESTERFIELD         ,66
+2020,7,41,CHESTERFIELD         ,50
+2020,8,41,CHESTERFIELD         ,39
+2020,9,41,CHESTERFIELD         ,50
+2020,10,41,CHESTERFIELD         ,49
+2020,11,41,CHESTERFIELD         ,39
+2020,12,41,CHESTERFIELD         ,62
+2020,13,41,CHESTERFIELD         ,59
+2020,14,41,CHESTERFIELD         ,66
+2020,15,41,CHESTERFIELD         ,57
+2020,16,41,CHESTERFIELD         ,46
+2020,17,41,CHESTERFIELD         ,62
+2020,18,41,CHESTERFIELD         ,54
+2020,19,41,CHESTERFIELD         ,48
+2020,20,41,CHESTERFIELD         ,45
+2020,21,41,CHESTERFIELD         ,50
+2020,22,41,CHESTERFIELD         ,53
+2020,23,41,CHESTERFIELD         ,47
+2020,24,41,CHESTERFIELD         ,39
+2020,25,41,CHESTERFIELD         ,15
+2020,1,43,CLARKE               ,2
+2020,2,43,CLARKE               ,4
+2020,3,43,CLARKE               ,0
+2020,4,43,CLARKE               ,5
+2020,5,43,CLARKE               ,4
+2020,6,43,CLARKE               ,3
+2020,7,43,CLARKE               ,4
+2020,9,43,CLARKE               ,2
+2020,10,43,CLARKE               ,4
+2020,11,43,CLARKE               ,3
+2020,12,43,CLARKE               ,1
+2020,13,43,CLARKE               ,5
+2020,15,43,CLARKE               ,2
+2020,16,43,CLARKE               ,2
+2020,17,43,CLARKE               ,2
+2020,19,43,CLARKE               ,0
+2020,20,43,CLARKE               ,2
+2020,21,43,CLARKE               ,2
+2020,22,43,CLARKE               ,4
+2020,23,43,CLARKE               ,3
+2020,24,43,CLARKE               ,4
+2020,25,43,CLARKE               ,0
+2020,1,570,COLONIAL HEIGHTS            ,5
+2020,2,570,COLONIAL HEIGHTS            ,6
+2020,3,570,COLONIAL HEIGHTS            ,2
+2020,4,570,COLONIAL HEIGHTS            ,5
+2020,5,570,COLONIAL HEIGHTS            ,9
+2020,6,570,COLONIAL HEIGHTS            ,5
+2020,7,570,COLONIAL HEIGHTS            ,8
+2020,8,570,COLONIAL HEIGHTS            ,6
+2020,9,570,COLONIAL HEIGHTS            ,6
+2020,10,570,COLONIAL HEIGHTS            ,5
+2020,11,570,COLONIAL HEIGHTS            ,4
+2020,12,570,COLONIAL HEIGHTS            ,1
+2020,13,570,COLONIAL HEIGHTS            ,5
+2020,14,570,COLONIAL HEIGHTS            ,3
+2020,15,570,COLONIAL HEIGHTS            ,0
+2020,16,570,COLONIAL HEIGHTS            ,7
+2020,17,570,COLONIAL HEIGHTS            ,1
+2020,18,570,COLONIAL HEIGHTS            ,1
+2020,19,570,COLONIAL HEIGHTS            ,6
+2020,20,570,COLONIAL HEIGHTS            ,6
+2020,21,570,COLONIAL HEIGHTS            ,7
+2020,22,570,COLONIAL HEIGHTS            ,5
+2020,23,570,COLONIAL HEIGHTS            ,4
+2020,24,570,COLONIAL HEIGHTS            ,0
+2020,25,570,COLONIAL HEIGHTS            ,1
+2020,1,580,COVINGTON                   ,3
+2020,2,580,COVINGTON                   ,4
+2020,4,580,COVINGTON                   ,1
+2020,6,580,COVINGTON                   ,2
+2020,7,580,COVINGTON                   ,1
+2020,8,580,COVINGTON                   ,1
+2020,9,580,COVINGTON                   ,3
+2020,10,580,COVINGTON                   ,1
+2020,12,580,COVINGTON                   ,0
+2020,14,580,COVINGTON                   ,4
+2020,15,580,COVINGTON                   ,4
+2020,16,580,COVINGTON                   ,2
+2020,18,580,COVINGTON                   ,0
+2020,19,580,COVINGTON                   ,3
+2020,22,580,COVINGTON                   ,1
+2020,23,580,COVINGTON                   ,4
+2020,3,45,CRAIG                ,0
+2020,4,45,CRAIG                ,0
+2020,5,45,CRAIG                ,2
+2020,7,45,CRAIG                ,2
+2020,9,45,CRAIG                ,4
+2020,10,45,CRAIG                ,4
+2020,11,45,CRAIG                ,0
+2020,14,45,CRAIG                ,1
+2020,15,45,CRAIG                ,4
+2020,16,45,CRAIG                ,4
+2020,17,45,CRAIG                ,4
+2020,18,45,CRAIG                ,1
+2020,20,45,CRAIG                ,1
+2020,23,45,CRAIG                ,2
+2020,25,45,CRAIG                ,4
+2020,1,47,CULPEPER             ,7
+2020,2,47,CULPEPER             ,5
+2020,3,47,CULPEPER             ,6
+2020,4,47,CULPEPER             ,9
+2020,5,47,CULPEPER             ,12
+2020,6,47,CULPEPER             ,7
+2020,7,47,CULPEPER             ,1
+2020,8,47,CULPEPER             ,5
+2020,9,47,CULPEPER             ,5
+2020,10,47,CULPEPER             ,5
+2020,11,47,CULPEPER             ,5
+2020,12,47,CULPEPER             ,7
+2020,13,47,CULPEPER             ,7
+2020,14,47,CULPEPER             ,13
+2020,15,47,CULPEPER             ,11
+2020,16,47,CULPEPER             ,13
+2020,17,47,CULPEPER             ,2
+2020,18,47,CULPEPER             ,3
+2020,19,47,CULPEPER             ,8
+2020,20,47,CULPEPER             ,5
+2020,21,47,CULPEPER             ,7
+2020,22,47,CULPEPER             ,13
+2020,23,47,CULPEPER             ,6
+2020,24,47,CULPEPER             ,7
+2020,25,47,CULPEPER             ,1
+2020,2,49,CUMBERLAND           ,0
+2020,4,49,CUMBERLAND           ,1
+2020,5,49,CUMBERLAND           ,2
+2020,6,49,CUMBERLAND           ,2
+2020,7,49,CUMBERLAND           ,1
+2020,8,49,CUMBERLAND           ,0
+2020,9,49,CUMBERLAND           ,2
+2020,11,49,CUMBERLAND           ,1
+2020,12,49,CUMBERLAND           ,1
+2020,13,49,CUMBERLAND           ,3
+2020,14,49,CUMBERLAND           ,1
+2020,17,49,CUMBERLAND           ,3
+2020,18,49,CUMBERLAND           ,2
+2020,19,49,CUMBERLAND           ,0
+2020,21,49,CUMBERLAND           ,1
+2020,22,49,CUMBERLAND           ,4
+2020,23,49,CUMBERLAND           ,2
+2020,24,49,CUMBERLAND           ,2
+2020,25,49,CUMBERLAND           ,0
+2020,1,590,DANVILLE                    ,18
+2020,2,590,DANVILLE                    ,20
+2020,3,590,DANVILLE                    ,18
+2020,4,590,DANVILLE                    ,12
+2020,5,590,DANVILLE                    ,24
+2020,6,590,DANVILLE                    ,14
+2020,7,590,DANVILLE                    ,13
+2020,8,590,DANVILLE                    ,17
+2020,9,590,DANVILLE                    ,19
+2020,10,590,DANVILLE                    ,15
+2020,11,590,DANVILLE                    ,17
+2020,12,590,DANVILLE                    ,13
+2020,13,590,DANVILLE                    ,15
+2020,14,590,DANVILLE                    ,22
+2020,15,590,DANVILLE                    ,11
+2020,16,590,DANVILLE                    ,20
+2020,17,590,DANVILLE                    ,22
+2020,18,590,DANVILLE                    ,15
+2020,19,590,DANVILLE                    ,19
+2020,20,590,DANVILLE                    ,19
+2020,21,590,DANVILLE                    ,12
+2020,22,590,DANVILLE                    ,7
+2020,23,590,DANVILLE                    ,12
+2020,24,590,DANVILLE                    ,6
+2020,25,590,DANVILLE                    ,5
+2020,1,51,DICKENSON            ,0
+2020,2,51,DICKENSON            ,2
+2020,3,51,DICKENSON            ,0
+2020,4,51,DICKENSON            ,1
+2020,5,51,DICKENSON            ,4
+2020,6,51,DICKENSON            ,2
+2020,7,51,DICKENSON            ,1
+2020,8,51,DICKENSON            ,2
+2020,9,51,DICKENSON            ,1
+2020,10,51,DICKENSON            ,2
+2020,11,51,DICKENSON            ,4
+2020,12,51,DICKENSON            ,2
+2020,13,51,DICKENSON            ,1
+2020,15,51,DICKENSON            ,1
+2020,16,51,DICKENSON            ,2
+2020,17,51,DICKENSON            ,0
+2020,18,51,DICKENSON            ,0
+2020,19,51,DICKENSON            ,5
+2020,20,51,DICKENSON            ,0
+2020,21,51,DICKENSON            ,4
+2020,22,51,DICKENSON            ,3
+2020,23,51,DICKENSON            ,2
+2020,24,51,DICKENSON            ,2
+2020,25,51,DICKENSON            ,4
+2020,1,53,DINWIDDIE            ,1
+2020,2,53,DINWIDDIE            ,0
+2020,3,53,DINWIDDIE            ,2
+2020,4,53,DINWIDDIE            ,4
+2020,5,53,DINWIDDIE            ,5
+2020,6,53,DINWIDDIE            ,1
+2020,7,53,DINWIDDIE            ,4
+2020,8,53,DINWIDDIE            ,3
+2020,9,53,DINWIDDIE            ,5
+2020,10,53,DINWIDDIE            ,5
+2020,11,53,DINWIDDIE            ,0
+2020,12,53,DINWIDDIE            ,4
+2020,13,53,DINWIDDIE            ,0
+2020,14,53,DINWIDDIE            ,4
+2020,15,53,DINWIDDIE            ,5
+2020,16,53,DINWIDDIE            ,4
+2020,17,53,DINWIDDIE            ,0
+2020,18,53,DINWIDDIE            ,4
+2020,19,53,DINWIDDIE            ,1
+2020,20,53,DINWIDDIE            ,5
+2020,21,53,DINWIDDIE            ,0
+2020,22,53,DINWIDDIE            ,4
+2020,23,53,DINWIDDIE            ,3
+2020,24,53,DINWIDDIE            ,3
+2020,1,595,EMPORIA                     ,1
+2020,2,595,EMPORIA                     ,1
+2020,3,595,EMPORIA                     ,5
+2020,4,595,EMPORIA                     ,1
+2020,5,595,EMPORIA                     ,1
+2020,6,595,EMPORIA                     ,0
+2020,7,595,EMPORIA                     ,2
+2020,9,595,EMPORIA                     ,0
+2020,10,595,EMPORIA                     ,4
+2020,11,595,EMPORIA                     ,4
+2020,12,595,EMPORIA                     ,0
+2020,13,595,EMPORIA                     ,1
+2020,14,595,EMPORIA                     ,4
+2020,15,595,EMPORIA                     ,3
+2020,16,595,EMPORIA                     ,4
+2020,17,595,EMPORIA                     ,3
+2020,18,595,EMPORIA                     ,5
+2020,19,595,EMPORIA                     ,4
+2020,20,595,EMPORIA                     ,5
+2020,21,595,EMPORIA                     ,2
+2020,22,595,EMPORIA                     ,6
+2020,24,595,EMPORIA                     ,4
+2020,1,57,ESSEX                ,6
+2020,2,57,ESSEX                ,5
+2020,3,57,ESSEX                ,4
+2020,4,57,ESSEX                ,4
+2020,5,57,ESSEX                ,2
+2020,6,57,ESSEX                ,0
+2020,7,57,ESSEX                ,0
+2020,8,57,ESSEX                ,1
+2020,9,57,ESSEX                ,3
+2020,10,57,ESSEX                ,5
+2020,11,57,ESSEX                ,1
+2020,12,57,ESSEX                ,0
+2020,13,57,ESSEX                ,4
+2020,14,57,ESSEX                ,0
+2020,15,57,ESSEX                ,4
+2020,16,57,ESSEX                ,3
+2020,17,57,ESSEX                ,2
+2020,18,57,ESSEX                ,1
+2020,19,57,ESSEX                ,3
+2020,20,57,ESSEX                ,1
+2020,22,57,ESSEX                ,0
+2020,23,57,ESSEX                ,3
+2020,24,57,ESSEX                ,3
+2020,25,57,ESSEX                ,3
+2020,1,600,FAIRFAXCIT                    ,4
+2020,2,600,FAIRFAXCIT                    ,4
+2020,3,600,FAIRFAXCIT                    ,6
+2020,4,600,FAIRFAXCIT                    ,5
+2020,5,600,FAIRFAXCIT                    ,6
+2020,6,600,FAIRFAXCIT                    ,5
+2020,7,600,FAIRFAXCIT                    ,1
+2020,8,600,FAIRFAXCIT                    ,5
+2020,9,600,FAIRFAXCIT                    ,2
+2020,10,600,FAIRFAXCIT                    ,2
+2020,11,600,FAIRFAXCIT                    ,1
+2020,12,600,FAIRFAXCIT                    ,1
+2020,13,600,FAIRFAXCIT                    ,2
+2020,14,600,FAIRFAXCIT                    ,2
+2020,15,600,FAIRFAXCIT                    ,6
+2020,16,600,FAIRFAXCIT                    ,2
+2020,17,600,FAIRFAXCIT                    ,5
+2020,18,600,FAIRFAXCIT                    ,5
+2020,19,600,FAIRFAXCIT                    ,8
+2020,20,600,FAIRFAXCIT                    ,7
+2020,21,600,FAIRFAXCIT                    ,10
+2020,22,600,FAIRFAXCIT                    ,6
+2020,23,600,FAIRFAXCIT                    ,0
+2020,24,600,FAIRFAXCIT                    ,1
+2020,25,600,FAIRFAXCIT                    ,4
+2020,1,59,FAIRFAX              ,106
+2020,2,59,FAIRFAX              ,111
+2020,3,59,FAIRFAX              ,117
+2020,4,59,FAIRFAX              ,112
+2020,5,59,FAIRFAX              ,109
+2020,6,59,FAIRFAX              ,109
+2020,7,59,FAIRFAX              ,107
+2020,8,59,FAIRFAX              ,116
+2020,9,59,FAIRFAX              ,104
+2020,10,59,FAIRFAX              ,110
+2020,11,59,FAIRFAX              ,109
+2020,12,59,FAIRFAX              ,87
+2020,13,59,FAIRFAX              ,114
+2020,14,59,FAIRFAX              ,132
+2020,15,59,FAIRFAX              ,131
+2020,16,59,FAIRFAX              ,162
+2020,17,59,FAIRFAX              ,176
+2020,18,59,FAIRFAX              ,160
+2020,19,59,FAIRFAX              ,145
+2020,20,59,FAIRFAX              ,129
+2020,21,59,FAIRFAX              ,129
+2020,22,59,FAIRFAX              ,96
+2020,23,59,FAIRFAX              ,85
+2020,24,59,FAIRFAX              ,79
+2020,25,59,FAIRFAX              ,25
+2020,1,610,FALLS CHURCH                ,2
+2020,2,610,FALLS CHURCH                ,0
+2020,4,610,FALLS CHURCH                ,3
+2020,5,610,FALLS CHURCH                ,2
+2020,7,610,FALLS CHURCH                ,5
+2020,8,610,FALLS CHURCH                ,0
+2020,9,610,FALLS CHURCH                ,2
+2020,10,610,FALLS CHURCH                ,3
+2020,11,610,FALLS CHURCH                ,2
+2020,14,610,FALLS CHURCH                ,5
+2020,15,610,FALLS CHURCH                ,2
+2020,16,610,FALLS CHURCH                ,3
+2020,17,610,FALLS CHURCH                ,1
+2020,20,610,FALLS CHURCH                ,4
+2020,22,610,FALLS CHURCH                ,1
+2020,23,610,FALLS CHURCH                ,0
+2020,24,610,FALLS CHURCH                ,0
+2020,1,61,FAUQUIER             ,7
+2020,2,61,FAUQUIER             ,12
+2020,3,61,FAUQUIER             ,5
+2020,4,61,FAUQUIER             ,8
+2020,5,61,FAUQUIER             ,9
+2020,6,61,FAUQUIER             ,8
+2020,7,61,FAUQUIER             ,14
+2020,8,61,FAUQUIER             ,8
+2020,9,61,FAUQUIER             ,7
+2020,10,61,FAUQUIER             ,11
+2020,11,61,FAUQUIER             ,13
+2020,12,61,FAUQUIER             ,18
+2020,13,61,FAUQUIER             ,13
+2020,14,61,FAUQUIER             ,12
+2020,15,61,FAUQUIER             ,16
+2020,16,61,FAUQUIER             ,12
+2020,17,61,FAUQUIER             ,16
+2020,18,61,FAUQUIER             ,9
+2020,19,61,FAUQUIER             ,2
+2020,20,61,FAUQUIER             ,6
+2020,21,61,FAUQUIER             ,10
+2020,22,61,FAUQUIER             ,11
+2020,23,61,FAUQUIER             ,15
+2020,24,61,FAUQUIER             ,7
+2020,1,63,FLOYD                ,1
+2020,2,63,FLOYD                ,3
+2020,3,63,FLOYD                ,3
+2020,4,63,FLOYD                ,1
+2020,5,63,FLOYD                ,0
+2020,6,63,FLOYD                ,1
+2020,7,63,FLOYD                ,1
+2020,8,63,FLOYD                ,0
+2020,9,63,FLOYD                ,2
+2020,10,63,FLOYD                ,2
+2020,11,63,FLOYD                ,2
+2020,12,63,FLOYD                ,1
+2020,13,63,FLOYD                ,0
+2020,14,63,FLOYD                ,4
+2020,15,63,FLOYD                ,1
+2020,16,63,FLOYD                ,3
+2020,17,63,FLOYD                ,1
+2020,18,63,FLOYD                ,2
+2020,19,63,FLOYD                ,1
+2020,20,63,FLOYD                ,7
+2020,22,63,FLOYD                ,0
+2020,23,63,FLOYD                ,0
+2020,25,63,FLOYD                ,4
+2020,1,65,FLUVANNA             ,1
+2020,3,65,FLUVANNA             ,4
+2020,4,65,FLUVANNA             ,1
+2020,5,65,FLUVANNA             ,3
+2020,6,65,FLUVANNA             ,1
+2020,7,65,FLUVANNA             ,3
+2020,8,65,FLUVANNA             ,5
+2020,10,65,FLUVANNA             ,4
+2020,11,65,FLUVANNA             ,0
+2020,12,65,FLUVANNA             ,5
+2020,13,65,FLUVANNA             ,4
+2020,14,65,FLUVANNA             ,0
+2020,15,65,FLUVANNA             ,5
+2020,16,65,FLUVANNA             ,1
+2020,17,65,FLUVANNA             ,1
+2020,18,65,FLUVANNA             ,4
+2020,19,65,FLUVANNA             ,4
+2020,20,65,FLUVANNA             ,2
+2020,21,65,FLUVANNA             ,4
+2020,22,65,FLUVANNA             ,4
+2020,23,65,FLUVANNA             ,4
+2020,24,65,FLUVANNA             ,0
+2020,1,620,FRANKLINCIT                    ,3
+2020,2,620,FRANKLINCIT                    ,3
+2020,3,620,FRANKLINCIT                    ,0
+2020,4,620,FRANKLINCIT                    ,2
+2020,5,620,FRANKLINCIT                    ,3
+2020,6,620,FRANKLINCIT                    ,2
+2020,7,620,FRANKLINCIT                    ,0
+2020,8,620,FRANKLINCIT                    ,6
+2020,9,620,FRANKLINCIT                    ,0
+2020,10,620,FRANKLINCIT                    ,1
+2020,11,620,FRANKLINCIT                    ,3
+2020,13,620,FRANKLINCIT                    ,5
+2020,14,620,FRANKLINCIT                    ,7
+2020,15,620,FRANKLINCIT                    ,1
+2020,16,620,FRANKLINCIT                    ,1
+2020,17,620,FRANKLINCIT                    ,3
+2020,18,620,FRANKLINCIT                    ,6
+2020,19,620,FRANKLINCIT                    ,1
+2020,20,620,FRANKLINCIT                    ,0
+2020,21,620,FRANKLINCIT                    ,2
+2020,22,620,FRANKLINCIT                    ,1
+2020,23,620,FRANKLINCIT                    ,4
+2020,24,620,FRANKLINCIT                    ,4
+2020,1,67,FRANKLIN             ,8
+2020,2,67,FRANKLIN             ,10
+2020,3,67,FRANKLIN             ,10
+2020,4,67,FRANKLIN             ,12
+2020,5,67,FRANKLIN             ,13
+2020,6,67,FRANKLIN             ,5
+2020,7,67,FRANKLIN             ,3
+2020,8,67,FRANKLIN             ,6
+2020,9,67,FRANKLIN             ,13
+2020,10,67,FRANKLIN             ,14
+2020,11,67,FRANKLIN             ,10
+2020,12,67,FRANKLIN             ,14
+2020,13,67,FRANKLIN             ,12
+2020,14,67,FRANKLIN             ,14
+2020,15,67,FRANKLIN             ,1
+2020,16,67,FRANKLIN             ,10
+2020,17,67,FRANKLIN             ,16
+2020,18,67,FRANKLIN             ,7
+2020,19,67,FRANKLIN             ,13
+2020,20,67,FRANKLIN             ,6
+2020,21,67,FRANKLIN             ,10
+2020,22,67,FRANKLIN             ,11
+2020,23,67,FRANKLIN             ,12
+2020,24,67,FRANKLIN             ,6
+2020,25,67,FRANKLIN             ,0
+2020,1,69,FREDERICK            ,7
+2020,2,69,FREDERICK            ,1
+2020,3,69,FREDERICK            ,8
+2020,4,69,FREDERICK            ,6
+2020,5,69,FREDERICK            ,10
+2020,6,69,FREDERICK            ,6
+2020,7,69,FREDERICK            ,2
+2020,8,69,FREDERICK            ,7
+2020,9,69,FREDERICK            ,12
+2020,10,69,FREDERICK            ,6
+2020,11,69,FREDERICK            ,7
+2020,12,69,FREDERICK            ,9
+2020,13,69,FREDERICK            ,6
+2020,14,69,FREDERICK            ,6
+2020,15,69,FREDERICK            ,10
+2020,16,69,FREDERICK            ,5
+2020,17,69,FREDERICK            ,11
+2020,18,69,FREDERICK            ,12
+2020,19,69,FREDERICK            ,6
+2020,20,69,FREDERICK            ,13
+2020,21,69,FREDERICK            ,3
+2020,22,69,FREDERICK            ,7
+2020,23,69,FREDERICK            ,5
+2020,24,69,FREDERICK            ,11
+2020,25,69,FREDERICK            ,3
+2020,1,630,FREDERICKSBURG              ,20
+2020,2,630,FREDERICKSBURG              ,17
+2020,3,630,FREDERICKSBURG              ,14
+2020,4,630,FREDERICKSBURG              ,10
+2020,5,630,FREDERICKSBURG              ,14
+2020,6,630,FREDERICKSBURG              ,13
+2020,7,630,FREDERICKSBURG              ,28
+2020,8,630,FREDERICKSBURG              ,19
+2020,9,630,FREDERICKSBURG              ,20
+2020,10,630,FREDERICKSBURG              ,19
+2020,11,630,FREDERICKSBURG              ,13
+2020,12,630,FREDERICKSBURG              ,29
+2020,13,630,FREDERICKSBURG              ,17
+2020,14,630,FREDERICKSBURG              ,24
+2020,15,630,FREDERICKSBURG              ,10
+2020,16,630,FREDERICKSBURG              ,14
+2020,17,630,FREDERICKSBURG              ,15
+2020,18,630,FREDERICKSBURG              ,30
+2020,19,630,FREDERICKSBURG              ,15
+2020,20,630,FREDERICKSBURG              ,17
+2020,21,630,FREDERICKSBURG              ,8
+2020,22,630,FREDERICKSBURG              ,15
+2020,23,630,FREDERICKSBURG              ,16
+2020,24,630,FREDERICKSBURG              ,11
+2020,25,630,FREDERICKSBURG              ,6
+2020,1,640,GALAX                       ,5
+2020,2,640,GALAX                       ,4
+2020,3,640,GALAX                       ,2
+2020,4,640,GALAX                       ,2
+2020,5,640,GALAX                       ,6
+2020,6,640,GALAX                       ,4
+2020,7,640,GALAX                       ,8
+2020,8,640,GALAX                       ,4
+2020,9,640,GALAX                       ,4
+2020,10,640,GALAX                       ,5
+2020,11,640,GALAX                       ,3
+2020,12,640,GALAX                       ,0
+2020,13,640,GALAX                       ,1
+2020,14,640,GALAX                       ,1
+2020,15,640,GALAX                       ,3
+2020,16,640,GALAX                       ,2
+2020,17,640,GALAX                       ,9
+2020,18,640,GALAX                       ,1
+2020,19,640,GALAX                       ,4
+2020,21,640,GALAX                       ,4
+2020,22,640,GALAX                       ,10
+2020,23,640,GALAX                       ,9
+2020,24,640,GALAX                       ,10
+2020,25,640,GALAX                       ,6
+2020,1,71,GILES                ,6
+2020,2,71,GILES                ,6
+2020,3,71,GILES                ,0
+2020,4,71,GILES                ,3
+2020,5,71,GILES                ,7
+2020,6,71,GILES                ,1
+2020,7,71,GILES                ,2
+2020,8,71,GILES                ,5
+2020,9,71,GILES                ,0
+2020,10,71,GILES                ,1
+2020,11,71,GILES                ,5
+2020,12,71,GILES                ,3
+2020,13,71,GILES                ,1
+2020,14,71,GILES                ,5
+2020,15,71,GILES                ,6
+2020,16,71,GILES                ,0
+2020,17,71,GILES                ,5
+2020,19,71,GILES                ,2
+2020,20,71,GILES                ,4
+2020,21,71,GILES                ,1
+2020,22,71,GILES                ,3
+2020,23,71,GILES                ,2
+2020,24,71,GILES                ,1
+2020,25,71,GILES                ,1
+2020,1,73,GLOUCESTER           ,9
+2020,2,73,GLOUCESTER           ,9
+2020,3,73,GLOUCESTER           ,12
+2020,4,73,GLOUCESTER           ,11
+2020,5,73,GLOUCESTER           ,9
+2020,6,73,GLOUCESTER           ,9
+2020,7,73,GLOUCESTER           ,8
+2020,8,73,GLOUCESTER           ,13
+2020,9,73,GLOUCESTER           ,10
+2020,10,73,GLOUCESTER           ,10
+2020,11,73,GLOUCESTER           ,1
+2020,12,73,GLOUCESTER           ,6
+2020,13,73,GLOUCESTER           ,12
+2020,14,73,GLOUCESTER           ,14
+2020,15,73,GLOUCESTER           ,15
+2020,16,73,GLOUCESTER           ,9
+2020,17,73,GLOUCESTER           ,18
+2020,18,73,GLOUCESTER           ,10
+2020,19,73,GLOUCESTER           ,11
+2020,20,73,GLOUCESTER           ,7
+2020,21,73,GLOUCESTER           ,11
+2020,22,73,GLOUCESTER           ,1
+2020,23,73,GLOUCESTER           ,5
+2020,24,73,GLOUCESTER           ,5
+2020,25,73,GLOUCESTER           ,2
+2020,1,75,GOOCHLAND            ,5
+2020,2,75,GOOCHLAND            ,0
+2020,3,75,GOOCHLAND            ,0
+2020,4,75,GOOCHLAND            ,2
+2020,5,75,GOOCHLAND            ,3
+2020,7,75,GOOCHLAND            ,2
+2020,9,75,GOOCHLAND            ,3
+2020,10,75,GOOCHLAND            ,2
+2020,11,75,GOOCHLAND            ,1
+2020,12,75,GOOCHLAND            ,2
+2020,13,75,GOOCHLAND            ,2
+2020,14,75,GOOCHLAND            ,1
+2020,15,75,GOOCHLAND            ,0
+2020,16,75,GOOCHLAND            ,2
+2020,17,75,GOOCHLAND            ,1
+2020,18,75,GOOCHLAND            ,4
+2020,20,75,GOOCHLAND            ,0
+2020,21,75,GOOCHLAND            ,5
+2020,22,75,GOOCHLAND            ,3
+2020,23,75,GOOCHLAND            ,2
+2020,24,75,GOOCHLAND            ,0
+2020,1,77,GRAYSON              ,1
+2020,2,77,GRAYSON              ,5
+2020,3,77,GRAYSON              ,0
+2020,4,77,GRAYSON              ,0
+2020,5,77,GRAYSON              ,0
+2020,6,77,GRAYSON              ,6
+2020,7,77,GRAYSON              ,0
+2020,8,77,GRAYSON              ,1
+2020,10,77,GRAYSON              ,4
+2020,11,77,GRAYSON              ,1
+2020,12,77,GRAYSON              ,3
+2020,14,77,GRAYSON              ,4
+2020,15,77,GRAYSON              ,7
+2020,16,77,GRAYSON              ,4
+2020,17,77,GRAYSON              ,4
+2020,18,77,GRAYSON              ,4
+2020,19,77,GRAYSON              ,3
+2020,21,77,GRAYSON              ,5
+2020,22,77,GRAYSON              ,3
+2020,23,77,GRAYSON              ,6
+2020,24,77,GRAYSON              ,3
+2020,25,77,GRAYSON              ,2
+2020,1,79,GREENE               ,2
+2020,2,79,GREENE               ,4
+2020,3,79,GREENE               ,3
+2020,4,79,GREENE               ,2
+2020,5,79,GREENE               ,3
+2020,7,79,GREENE               ,3
+2020,8,79,GREENE               ,4
+2020,9,79,GREENE               ,2
+2020,10,79,GREENE               ,5
+2020,11,79,GREENE               ,5
+2020,13,79,GREENE               ,1
+2020,15,79,GREENE               ,3
+2020,16,79,GREENE               ,1
+2020,17,79,GREENE               ,0
+2020,18,79,GREENE               ,2
+2020,19,79,GREENE               ,7
+2020,20,79,GREENE               ,0
+2020,21,79,GREENE               ,5
+2020,22,79,GREENE               ,0
+2020,23,79,GREENE               ,0
+2020,24,79,GREENE               ,3
+2020,25,79,GREENE               ,0
+2020,1,81,GREENSVILLE          ,1
+2020,2,81,GREENSVILLE          ,3
+2020,3,81,GREENSVILLE          ,4
+2020,4,81,GREENSVILLE          ,3
+2020,5,81,GREENSVILLE          ,1
+2020,7,81,GREENSVILLE          ,0
+2020,9,81,GREENSVILLE          ,7
+2020,10,81,GREENSVILLE          ,2
+2020,12,81,GREENSVILLE          ,0
+2020,14,81,GREENSVILLE          ,2
+2020,16,81,GREENSVILLE          ,1
+2020,17,81,GREENSVILLE          ,2
+2020,18,81,GREENSVILLE          ,0
+2020,19,81,GREENSVILLE          ,1
+2020,20,81,GREENSVILLE          ,4
+2020,21,81,GREENSVILLE          ,2
+2020,22,81,GREENSVILLE          ,4
+2020,23,81,GREENSVILLE          ,2
+2020,24,81,GREENSVILLE          ,2
+2020,1,83,HALIFAX              ,7
+2020,2,83,HALIFAX              ,10
+2020,3,83,HALIFAX              ,7
+2020,4,83,HALIFAX              ,15
+2020,5,83,HALIFAX              ,12
+2020,6,83,HALIFAX              ,6
+2020,7,83,HALIFAX              ,7
+2020,8,83,HALIFAX              ,11
+2020,9,83,HALIFAX              ,7
+2020,10,83,HALIFAX              ,11
+2020,11,83,HALIFAX              ,7
+2020,12,83,HALIFAX              ,5
+2020,13,83,HALIFAX              ,9
+2020,14,83,HALIFAX              ,8
+2020,15,83,HALIFAX              ,11
+2020,16,83,HALIFAX              ,15
+2020,17,83,HALIFAX              ,7
+2020,18,83,HALIFAX              ,9
+2020,19,83,HALIFAX              ,11
+2020,20,83,HALIFAX              ,11
+2020,21,83,HALIFAX              ,3
+2020,22,83,HALIFAX              ,11
+2020,23,83,HALIFAX              ,9
+2020,24,83,HALIFAX              ,7
+2020,25,83,HALIFAX              ,0
+2020,1,650,HAMPTON                     ,25
+2020,2,650,HAMPTON                     ,26
+2020,3,650,HAMPTON                     ,19
+2020,4,650,HAMPTON                     ,19
+2020,5,650,HAMPTON                     ,24
+2020,6,650,HAMPTON                     ,24
+2020,7,650,HAMPTON                     ,28
+2020,8,650,HAMPTON                     ,22
+2020,9,650,HAMPTON                     ,23
+2020,10,650,HAMPTON                     ,33
+2020,11,650,HAMPTON                     ,25
+2020,12,650,HAMPTON                     ,26
+2020,13,650,HAMPTON                     ,29
+2020,14,650,HAMPTON                     ,20
+2020,15,650,HAMPTON                     ,22
+2020,16,650,HAMPTON                     ,24
+2020,17,650,HAMPTON                     ,21
+2020,18,650,HAMPTON                     ,24
+2020,19,650,HAMPTON                     ,21
+2020,20,650,HAMPTON                     ,20
+2020,21,650,HAMPTON                     ,19
+2020,22,650,HAMPTON                     ,21
+2020,23,650,HAMPTON                     ,19
+2020,24,650,HAMPTON                     ,13
+2020,25,650,HAMPTON                     ,0
+2020,1,85,HANOVER              ,33
+2020,2,85,HANOVER              ,35
+2020,3,85,HANOVER              ,26
+2020,4,85,HANOVER              ,19
+2020,5,85,HANOVER              ,27
+2020,6,85,HANOVER              ,31
+2020,7,85,HANOVER              ,21
+2020,8,85,HANOVER              ,31
+2020,9,85,HANOVER              ,21
+2020,10,85,HANOVER              ,19
+2020,11,85,HANOVER              ,27
+2020,12,85,HANOVER              ,25
+2020,13,85,HANOVER              ,32
+2020,14,85,HANOVER              ,28
+2020,15,85,HANOVER              ,32
+2020,16,85,HANOVER              ,43
+2020,17,85,HANOVER              ,41
+2020,18,85,HANOVER              ,36
+2020,19,85,HANOVER              ,28
+2020,20,85,HANOVER              ,35
+2020,21,85,HANOVER              ,26
+2020,22,85,HANOVER              ,19
+2020,23,85,HANOVER              ,25
+2020,24,85,HANOVER              ,21
+2020,25,85,HANOVER              ,10
+2020,1,660,HARRISONBURG                ,8
+2020,2,660,HARRISONBURG                ,4
+2020,3,660,HARRISONBURG                ,10
+2020,4,660,HARRISONBURG                ,5
+2020,5,660,HARRISONBURG                ,6
+2020,6,660,HARRISONBURG                ,3
+2020,7,660,HARRISONBURG                ,5
+2020,8,660,HARRISONBURG                ,10
+2020,9,660,HARRISONBURG                ,3
+2020,10,660,HARRISONBURG                ,7
+2020,11,660,HARRISONBURG                ,6
+2020,12,660,HARRISONBURG                ,5
+2020,13,660,HARRISONBURG                ,0
+2020,14,660,HARRISONBURG                ,7
+2020,15,660,HARRISONBURG                ,10
+2020,16,660,HARRISONBURG                ,14
+2020,17,660,HARRISONBURG                ,10
+2020,18,660,HARRISONBURG                ,0
+2020,19,660,HARRISONBURG                ,5
+2020,20,660,HARRISONBURG                ,5
+2020,21,660,HARRISONBURG                ,5
+2020,22,660,HARRISONBURG                ,9
+2020,23,660,HARRISONBURG                ,6
+2020,24,660,HARRISONBURG                ,5
+2020,1,87,HENRICO              ,84
+2020,2,87,HENRICO              ,61
+2020,3,87,HENRICO              ,72
+2020,4,87,HENRICO              ,76
+2020,5,87,HENRICO              ,77
+2020,6,87,HENRICO              ,69
+2020,7,87,HENRICO              ,62
+2020,8,87,HENRICO              ,66
+2020,9,87,HENRICO              ,73
+2020,10,87,HENRICO              ,67
+2020,11,87,HENRICO              ,72
+2020,12,87,HENRICO              ,68
+2020,13,87,HENRICO              ,88
+2020,14,87,HENRICO              ,92
+2020,15,87,HENRICO              ,90
+2020,16,87,HENRICO              ,84
+2020,17,87,HENRICO              ,68
+2020,18,87,HENRICO              ,87
+2020,19,87,HENRICO              ,59
+2020,20,87,HENRICO              ,65
+2020,21,87,HENRICO              ,66
+2020,22,87,HENRICO              ,56
+2020,23,87,HENRICO              ,53
+2020,24,87,HENRICO              ,41
+2020,25,87,HENRICO              ,19
+2020,1,89,HENRY                ,10
+2020,2,89,HENRY                ,7
+2020,3,89,HENRY                ,8
+2020,4,89,HENRY                ,8
+2020,5,89,HENRY                ,7
+2020,6,89,HENRY                ,6
+2020,7,89,HENRY                ,7
+2020,8,89,HENRY                ,10
+2020,9,89,HENRY                ,5
+2020,10,89,HENRY                ,5
+2020,11,89,HENRY                ,8
+2020,12,89,HENRY                ,9
+2020,13,89,HENRY                ,7
+2020,14,89,HENRY                ,6
+2020,15,89,HENRY                ,5
+2020,16,89,HENRY                ,6
+2020,17,89,HENRY                ,6
+2020,18,89,HENRY                ,9
+2020,19,89,HENRY                ,6
+2020,20,89,HENRY                ,5
+2020,21,89,HENRY                ,8
+2020,22,89,HENRY                ,9
+2020,23,89,HENRY                ,13
+2020,24,89,HENRY                ,6
+2020,25,89,HENRY                ,1
+2020,4,91,HIGHLAND             ,0
+2020,6,91,HIGHLAND             ,3
+2020,12,91,HIGHLAND             ,4
+2020,14,91,HIGHLAND             ,0
+2020,16,91,HIGHLAND             ,4
+2020,21,91,HIGHLAND             ,0
+2020,1,670,HOPEWELL                    ,8
+2020,2,670,HOPEWELL                    ,7
+2020,3,670,HOPEWELL                    ,7
+2020,4,670,HOPEWELL                    ,11
+2020,5,670,HOPEWELL                    ,7
+2020,6,670,HOPEWELL                    ,5
+2020,7,670,HOPEWELL                    ,6
+2020,8,670,HOPEWELL                    ,5
+2020,9,670,HOPEWELL                    ,8
+2020,10,670,HOPEWELL                    ,1
+2020,11,670,HOPEWELL                    ,12
+2020,12,670,HOPEWELL                    ,4
+2020,13,670,HOPEWELL                    ,10
+2020,14,670,HOPEWELL                    ,3
+2020,15,670,HOPEWELL                    ,6
+2020,16,670,HOPEWELL                    ,5
+2020,17,670,HOPEWELL                    ,4
+2020,18,670,HOPEWELL                    ,9
+2020,19,670,HOPEWELL                    ,4
+2020,20,670,HOPEWELL                    ,8
+2020,21,670,HOPEWELL                    ,3
+2020,22,670,HOPEWELL                    ,7
+2020,23,670,HOPEWELL                    ,5
+2020,24,670,HOPEWELL                    ,6
+2020,25,670,HOPEWELL                    ,1
+2020,1,93,ISLE OF WIGHT        ,0
+2020,2,93,ISLE OF WIGHT        ,7
+2020,3,93,ISLE OF WIGHT        ,3
+2020,4,93,ISLE OF WIGHT        ,6
+2020,5,93,ISLE OF WIGHT        ,6
+2020,6,93,ISLE OF WIGHT        ,4
+2020,7,93,ISLE OF WIGHT        ,8
+2020,8,93,ISLE OF WIGHT        ,6
+2020,9,93,ISLE OF WIGHT        ,3
+2020,10,93,ISLE OF WIGHT        ,1
+2020,11,93,ISLE OF WIGHT        ,2
+2020,12,93,ISLE OF WIGHT        ,5
+2020,13,93,ISLE OF WIGHT        ,2
+2020,14,93,ISLE OF WIGHT        ,5
+2020,15,93,ISLE OF WIGHT        ,5
+2020,16,93,ISLE OF WIGHT        ,8
+2020,17,93,ISLE OF WIGHT        ,9
+2020,18,93,ISLE OF WIGHT        ,5
+2020,19,93,ISLE OF WIGHT        ,4
+2020,20,93,ISLE OF WIGHT        ,5
+2020,21,93,ISLE OF WIGHT        ,6
+2020,22,93,ISLE OF WIGHT        ,2
+2020,23,93,ISLE OF WIGHT        ,3
+2020,24,93,ISLE OF WIGHT        ,3
+2020,25,93,ISLE OF WIGHT        ,2
+2020,1,95,JAMES CITY           ,17
+2020,2,95,JAMES CITY           ,21
+2020,3,95,JAMES CITY           ,15
+2020,4,95,JAMES CITY           ,15
+2020,5,95,JAMES CITY           ,14
+2020,6,95,JAMES CITY           ,15
+2020,7,95,JAMES CITY           ,11
+2020,8,95,JAMES CITY           ,19
+2020,9,95,JAMES CITY           ,11
+2020,10,95,JAMES CITY           ,11
+2020,11,95,JAMES CITY           ,14
+2020,12,95,JAMES CITY           ,9
+2020,13,95,JAMES CITY           ,16
+2020,14,95,JAMES CITY           ,17
+2020,15,95,JAMES CITY           ,16
+2020,16,95,JAMES CITY           ,9
+2020,17,95,JAMES CITY           ,18
+2020,18,95,JAMES CITY           ,13
+2020,19,95,JAMES CITY           ,16
+2020,20,95,JAMES CITY           ,14
+2020,21,95,JAMES CITY           ,15
+2020,22,95,JAMES CITY           ,12
+2020,23,95,JAMES CITY           ,17
+2020,24,95,JAMES CITY           ,8
+2020,25,95,JAMES CITY           ,4
+2020,3,97,KING AND QUEEN       ,4
+2020,5,97,KING AND QUEEN       ,2
+2020,7,97,KING AND QUEEN       ,4
+2020,8,97,KING AND QUEEN       ,0
+2020,13,97,KING AND QUEEN       ,3
+2020,14,97,KING AND QUEEN       ,1
+2020,15,97,KING AND QUEEN       ,4
+2020,16,97,KING AND QUEEN       ,1
+2020,18,97,KING AND QUEEN       ,0
+2020,19,97,KING AND QUEEN       ,4
+2020,21,97,KING AND QUEEN       ,2
+2020,23,97,KING AND QUEEN       ,4
+2020,25,97,KING AND QUEEN       ,3
+2020,1,99,KING GEORGE          ,0
+2020,2,99,KING GEORGE          ,0
+2020,3,99,KING GEORGE          ,3
+2020,4,99,KING GEORGE          ,1
+2020,5,99,KING GEORGE          ,1
+2020,6,99,KING GEORGE          ,3
+2020,8,99,KING GEORGE          ,3
+2020,9,99,KING GEORGE          ,4
+2020,10,99,KING GEORGE          ,5
+2020,11,99,KING GEORGE          ,2
+2020,12,99,KING GEORGE          ,4
+2020,13,99,KING GEORGE          ,3
+2020,14,99,KING GEORGE          ,4
+2020,15,99,KING GEORGE          ,0
+2020,16,99,KING GEORGE          ,5
+2020,17,99,KING GEORGE          ,1
+2020,18,99,KING GEORGE          ,6
+2020,19,99,KING GEORGE          ,0
+2020,20,99,KING GEORGE          ,4
+2020,21,99,KING GEORGE          ,3
+2020,22,99,KING GEORGE          ,3
+2020,23,99,KING GEORGE          ,1
+2020,24,99,KING GEORGE          ,4
+2020,1,101,KING WILLIAM         ,3
+2020,2,101,KING WILLIAM         ,4
+2020,3,101,KING WILLIAM         ,4
+2020,4,101,KING WILLIAM         ,3
+2020,5,101,KING WILLIAM         ,0
+2020,6,101,KING WILLIAM         ,0
+2020,7,101,KING WILLIAM         ,2
+2020,8,101,KING WILLIAM         ,5
+2020,9,101,KING WILLIAM         ,1
+2020,11,101,KING WILLIAM         ,2
+2020,12,101,KING WILLIAM         ,4
+2020,13,101,KING WILLIAM         ,2
+2020,14,101,KING WILLIAM         ,1
+2020,15,101,KING WILLIAM         ,4
+2020,16,101,KING WILLIAM         ,4
+2020,17,101,KING WILLIAM         ,3
+2020,18,101,KING WILLIAM         ,1
+2020,19,101,KING WILLIAM         ,6
+2020,20,101,KING WILLIAM         ,3
+2020,21,101,KING WILLIAM         ,0
+2020,23,101,KING WILLIAM         ,0
+2020,24,101,KING WILLIAM         ,4
+2020,25,101,KING WILLIAM         ,2
+2020,1,103,LANCASTER            ,0
+2020,2,103,LANCASTER            ,3
+2020,3,103,LANCASTER            ,6
+2020,4,103,LANCASTER            ,5
+2020,5,103,LANCASTER            ,8
+2020,6,103,LANCASTER            ,1
+2020,7,103,LANCASTER            ,2
+2020,8,103,LANCASTER            ,1
+2020,9,103,LANCASTER            ,1
+2020,10,103,LANCASTER            ,4
+2020,11,103,LANCASTER            ,5
+2020,12,103,LANCASTER            ,5
+2020,13,103,LANCASTER            ,5
+2020,14,103,LANCASTER            ,2
+2020,15,103,LANCASTER            ,0
+2020,16,103,LANCASTER            ,4
+2020,17,103,LANCASTER            ,1
+2020,18,103,LANCASTER            ,2
+2020,19,103,LANCASTER            ,7
+2020,20,103,LANCASTER            ,5
+2020,21,103,LANCASTER            ,0
+2020,22,103,LANCASTER            ,5
+2020,23,103,LANCASTER            ,0
+2020,24,103,LANCASTER            ,3
+2020,25,103,LANCASTER            ,1
+2020,1,105,LEE                  ,1
+2020,2,105,LEE                  ,4
+2020,3,105,LEE                  ,2
+2020,4,105,LEE                  ,4
+2020,5,105,LEE                  ,1
+2020,6,105,LEE                  ,0
+2020,7,105,LEE                  ,1
+2020,8,105,LEE                  ,4
+2020,9,105,LEE                  ,3
+2020,10,105,LEE                  ,1
+2020,11,105,LEE                  ,1
+2020,12,105,LEE                  ,1
+2020,13,105,LEE                  ,2
+2020,14,105,LEE                  ,2
+2020,15,105,LEE                  ,4
+2020,16,105,LEE                  ,3
+2020,17,105,LEE                  ,1
+2020,18,105,LEE                  ,3
+2020,19,105,LEE                  ,3
+2020,20,105,LEE                  ,4
+2020,21,105,LEE                  ,5
+2020,22,105,LEE                  ,4
+2020,23,105,LEE                  ,2
+2020,24,105,LEE                  ,3
+2020,25,105,LEE                  ,0
+2020,1,678,LEXINGTON                   ,0
+2020,2,678,LEXINGTON                   ,4
+2020,3,678,LEXINGTON                   ,5
+2020,4,678,LEXINGTON                   ,2
+2020,5,678,LEXINGTON                   ,0
+2020,6,678,LEXINGTON                   ,2
+2020,7,678,LEXINGTON                   ,2
+2020,8,678,LEXINGTON                   ,5
+2020,9,678,LEXINGTON                   ,3
+2020,10,678,LEXINGTON                   ,4
+2020,11,678,LEXINGTON                   ,4
+2020,12,678,LEXINGTON                   ,3
+2020,13,678,LEXINGTON                   ,3
+2020,14,678,LEXINGTON                   ,5
+2020,15,678,LEXINGTON                   ,4
+2020,16,678,LEXINGTON                   ,4
+2020,17,678,LEXINGTON                   ,0
+2020,18,678,LEXINGTON                   ,3
+2020,19,678,LEXINGTON                   ,1
+2020,21,678,LEXINGTON                   ,2
+2020,22,678,LEXINGTON                   ,3
+2020,23,678,LEXINGTON                   ,3
+2020,24,678,LEXINGTON                   ,4
+2020,25,678,LEXINGTON                   ,2
+2020,1,107,LOUDOUN              ,51
+2020,2,107,LOUDOUN              ,42
+2020,3,107,LOUDOUN              ,33
+2020,4,107,LOUDOUN              ,40
+2020,5,107,LOUDOUN              ,37
+2020,6,107,LOUDOUN              ,37
+2020,7,107,LOUDOUN              ,51
+2020,8,107,LOUDOUN              ,39
+2020,9,107,LOUDOUN              ,35
+2020,10,107,LOUDOUN              ,42
+2020,11,107,LOUDOUN              ,44
+2020,12,107,LOUDOUN              ,35
+2020,13,107,LOUDOUN              ,26
+2020,14,107,LOUDOUN              ,38
+2020,15,107,LOUDOUN              ,41
+2020,16,107,LOUDOUN              ,44
+2020,17,107,LOUDOUN              ,52
+2020,18,107,LOUDOUN              ,66
+2020,19,107,LOUDOUN              ,53
+2020,20,107,LOUDOUN              ,47
+2020,21,107,LOUDOUN              ,34
+2020,22,107,LOUDOUN              ,35
+2020,23,107,LOUDOUN              ,36
+2020,24,107,LOUDOUN              ,31
+2020,25,107,LOUDOUN              ,15
+2020,1,109,LOUISA               ,2
+2020,2,109,LOUISA               ,1
+2020,3,109,LOUISA               ,0
+2020,4,109,LOUISA               ,5
+2020,5,109,LOUISA               ,3
+2020,6,109,LOUISA               ,4
+2020,7,109,LOUISA               ,6
+2020,8,109,LOUISA               ,4
+2020,9,109,LOUISA               ,5
+2020,10,109,LOUISA               ,2
+2020,11,109,LOUISA               ,0
+2020,12,109,LOUISA               ,4
+2020,13,109,LOUISA               ,1
+2020,14,109,LOUISA               ,7
+2020,15,109,LOUISA               ,0
+2020,16,109,LOUISA               ,4
+2020,17,109,LOUISA               ,8
+2020,18,109,LOUISA               ,5
+2020,19,109,LOUISA               ,8
+2020,20,109,LOUISA               ,12
+2020,21,109,LOUISA               ,4
+2020,23,109,LOUISA               ,1
+2020,24,109,LOUISA               ,1
+2020,25,109,LOUISA               ,2
+2020,1,111,LUNENBURG            ,0
+2020,3,111,LUNENBURG            ,0
+2020,4,111,LUNENBURG            ,1
+2020,5,111,LUNENBURG            ,0
+2020,6,111,LUNENBURG            ,0
+2020,8,111,LUNENBURG            ,4
+2020,9,111,LUNENBURG            ,1
+2020,10,111,LUNENBURG            ,2
+2020,12,111,LUNENBURG            ,0
+2020,13,111,LUNENBURG            ,1
+2020,14,111,LUNENBURG            ,1
+2020,15,111,LUNENBURG            ,2
+2020,16,111,LUNENBURG            ,3
+2020,19,111,LUNENBURG            ,3
+2020,20,111,LUNENBURG            ,3
+2020,21,111,LUNENBURG            ,4
+2020,22,111,LUNENBURG            ,2
+2020,24,111,LUNENBURG            ,3
+2020,1,680,LYNCHBURG                   ,34
+2020,2,680,LYNCHBURG                   ,40
+2020,3,680,LYNCHBURG                   ,27
+2020,4,680,LYNCHBURG                   ,33
+2020,5,680,LYNCHBURG                   ,24
+2020,6,680,LYNCHBURG                   ,36
+2020,7,680,LYNCHBURG                   ,24
+2020,8,680,LYNCHBURG                   ,30
+2020,9,680,LYNCHBURG                   ,30
+2020,10,680,LYNCHBURG                   ,36
+2020,11,680,LYNCHBURG                   ,32
+2020,12,680,LYNCHBURG                   ,34
+2020,13,680,LYNCHBURG                   ,42
+2020,14,680,LYNCHBURG                   ,38
+2020,15,680,LYNCHBURG                   ,33
+2020,16,680,LYNCHBURG                   ,26
+2020,17,680,LYNCHBURG                   ,31
+2020,18,680,LYNCHBURG                   ,33
+2020,19,680,LYNCHBURG                   ,35
+2020,20,680,LYNCHBURG                   ,29
+2020,21,680,LYNCHBURG                   ,29
+2020,22,680,LYNCHBURG                   ,29
+2020,23,680,LYNCHBURG                   ,32
+2020,24,680,LYNCHBURG                   ,24
+2020,25,680,LYNCHBURG                   ,9
+2020,1,113,MADISON              ,0
+2020,2,113,MADISON              ,2
+2020,3,113,MADISON              ,0
+2020,5,113,MADISON              ,5
+2020,6,113,MADISON              ,1
+2020,7,113,MADISON              ,3
+2020,8,113,MADISON              ,1
+2020,9,113,MADISON              ,0
+2020,10,113,MADISON              ,4
+2020,11,113,MADISON              ,2
+2020,13,113,MADISON              ,0
+2020,14,113,MADISON              ,4
+2020,15,113,MADISON              ,5
+2020,16,113,MADISON              ,0
+2020,17,113,MADISON              ,1
+2020,18,113,MADISON              ,2
+2020,19,113,MADISON              ,0
+2020,20,113,MADISON              ,1
+2020,22,113,MADISON              ,4
+2020,23,113,MADISON              ,0
+2020,25,113,MADISON              ,1
+2020,1,683,MANASSAS                    ,11
+2020,2,683,MANASSAS                    ,6
+2020,3,683,MANASSAS                    ,13
+2020,4,683,MANASSAS                    ,8
+2020,5,683,MANASSAS                    ,14
+2020,6,683,MANASSAS                    ,10
+2020,7,683,MANASSAS                    ,7
+2020,8,683,MANASSAS                    ,8
+2020,9,683,MANASSAS                    ,14
+2020,10,683,MANASSAS                    ,12
+2020,11,683,MANASSAS                    ,11
+2020,12,683,MANASSAS                    ,8
+2020,13,683,MANASSAS                    ,13
+2020,14,683,MANASSAS                    ,5
+2020,15,683,MANASSAS                    ,2
+2020,16,683,MANASSAS                    ,13
+2020,17,683,MANASSAS                    ,12
+2020,18,683,MANASSAS                    ,17
+2020,19,683,MANASSAS                    ,30
+2020,20,683,MANASSAS                    ,16
+2020,21,683,MANASSAS                    ,21
+2020,22,683,MANASSAS                    ,15
+2020,23,683,MANASSAS                    ,7
+2020,24,683,MANASSAS                    ,12
+2020,25,683,MANASSAS                    ,2
+2020,4,685,MANASSAS PARK               ,1
+2020,10,685,MANASSAS PARK               ,4
+2020,17,685,MANASSAS PARK               ,0
+2020,20,685,MANASSAS PARK               ,2
+2020,25,685,MANASSAS PARK               ,4
+2020,1,690,MARTINSVILLE                ,6
+2020,2,690,MARTINSVILLE                ,1
+2020,3,690,MARTINSVILLE                ,6
+2020,4,690,MARTINSVILLE                ,13
+2020,5,690,MARTINSVILLE                ,7
+2020,6,690,MARTINSVILLE                ,4
+2020,7,690,MARTINSVILLE                ,8
+2020,8,690,MARTINSVILLE                ,7
+2020,9,690,MARTINSVILLE                ,9
+2020,10,690,MARTINSVILLE                ,8
+2020,11,690,MARTINSVILLE                ,6
+2020,12,690,MARTINSVILLE                ,11
+2020,13,690,MARTINSVILLE                ,13
+2020,14,690,MARTINSVILLE                ,7
+2020,15,690,MARTINSVILLE                ,7
+2020,16,690,MARTINSVILLE                ,7
+2020,17,690,MARTINSVILLE                ,2
+2020,18,690,MARTINSVILLE                ,7
+2020,19,690,MARTINSVILLE                ,16
+2020,20,690,MARTINSVILLE                ,10
+2020,21,690,MARTINSVILLE                ,7
+2020,22,690,MARTINSVILLE                ,6
+2020,23,690,MARTINSVILLE                ,5
+2020,24,690,MARTINSVILLE                ,7
+2020,25,690,MARTINSVILLE                ,6
+2020,1,115,MATHEWS              ,1
+2020,2,115,MATHEWS              ,0
+2020,4,115,MATHEWS              ,1
+2020,5,115,MATHEWS              ,0
+2020,6,115,MATHEWS              ,0
+2020,7,115,MATHEWS              ,2
+2020,8,115,MATHEWS              ,2
+2020,10,115,MATHEWS              ,0
+2020,11,115,MATHEWS              ,0
+2020,12,115,MATHEWS              ,4
+2020,14,115,MATHEWS              ,4
+2020,15,115,MATHEWS              ,4
+2020,16,115,MATHEWS              ,0
+2020,17,115,MATHEWS              ,0
+2020,18,115,MATHEWS              ,3
+2020,19,115,MATHEWS              ,2
+2020,20,115,MATHEWS              ,4
+2020,24,115,MATHEWS              ,7
+2020,25,115,MATHEWS              ,4
+2020,1,117,MECKLENBURG          ,8
+2020,2,117,MECKLENBURG          ,7
+2020,3,117,MECKLENBURG          ,6
+2020,4,117,MECKLENBURG          ,7
+2020,5,117,MECKLENBURG          ,8
+2020,6,117,MECKLENBURG          ,10
+2020,7,117,MECKLENBURG          ,7
+2020,8,117,MECKLENBURG          ,7
+2020,9,117,MECKLENBURG          ,11
+2020,10,117,MECKLENBURG          ,16
+2020,11,117,MECKLENBURG          ,11
+2020,12,117,MECKLENBURG          ,8
+2020,13,117,MECKLENBURG          ,8
+2020,14,117,MECKLENBURG          ,8
+2020,15,117,MECKLENBURG          ,13
+2020,16,117,MECKLENBURG          ,10
+2020,17,117,MECKLENBURG          ,13
+2020,18,117,MECKLENBURG          ,11
+2020,19,117,MECKLENBURG          ,9
+2020,20,117,MECKLENBURG          ,11
+2020,21,117,MECKLENBURG          ,5
+2020,22,117,MECKLENBURG          ,12
+2020,23,117,MECKLENBURG          ,7
+2020,24,117,MECKLENBURG          ,12
+2020,25,117,MECKLENBURG          ,3
+2020,1,119,MIDDLESEX            ,4
+2020,3,119,MIDDLESEX            ,2
+2020,4,119,MIDDLESEX            ,5
+2020,5,119,MIDDLESEX            ,0
+2020,7,119,MIDDLESEX            ,3
+2020,8,119,MIDDLESEX            ,1
+2020,9,119,MIDDLESEX            ,3
+2020,10,119,MIDDLESEX            ,3
+2020,11,119,MIDDLESEX            ,2
+2020,12,119,MIDDLESEX            ,2
+2020,13,119,MIDDLESEX            ,5
+2020,14,119,MIDDLESEX            ,6
+2020,15,119,MIDDLESEX            ,4
+2020,16,119,MIDDLESEX            ,3
+2020,17,119,MIDDLESEX            ,3
+2020,18,119,MIDDLESEX            ,3
+2020,19,119,MIDDLESEX            ,5
+2020,21,119,MIDDLESEX            ,3
+2020,22,119,MIDDLESEX            ,1
+2020,25,119,MIDDLESEX            ,2
+2020,1,121,MONTGOMERY           ,12
+2020,2,121,MONTGOMERY           ,11
+2020,3,121,MONTGOMERY           ,14
+2020,4,121,MONTGOMERY           ,17
+2020,5,121,MONTGOMERY           ,17
+2020,6,121,MONTGOMERY           ,15
+2020,7,121,MONTGOMERY           ,20
+2020,8,121,MONTGOMERY           ,16
+2020,9,121,MONTGOMERY           ,12
+2020,10,121,MONTGOMERY           ,18
+2020,11,121,MONTGOMERY           ,19
+2020,12,121,MONTGOMERY           ,14
+2020,13,121,MONTGOMERY           ,14
+2020,14,121,MONTGOMERY           ,18
+2020,15,121,MONTGOMERY           ,15
+2020,16,121,MONTGOMERY           ,21
+2020,17,121,MONTGOMERY           ,19
+2020,18,121,MONTGOMERY           ,16
+2020,19,121,MONTGOMERY           ,11
+2020,20,121,MONTGOMERY           ,11
+2020,21,121,MONTGOMERY           ,6
+2020,22,121,MONTGOMERY           ,15
+2020,23,121,MONTGOMERY           ,18
+2020,24,121,MONTGOMERY           ,1
+2020,25,121,MONTGOMERY           ,7
+2020,1,125,NELSON               ,3
+2020,2,125,NELSON               ,5
+2020,4,125,NELSON               ,1
+2020,5,125,NELSON               ,0
+2020,6,125,NELSON               ,1
+2020,7,125,NELSON               ,1
+2020,8,125,NELSON               ,4
+2020,9,125,NELSON               ,1
+2020,10,125,NELSON               ,4
+2020,12,125,NELSON               ,2
+2020,13,125,NELSON               ,1
+2020,14,125,NELSON               ,2
+2020,15,125,NELSON               ,2
+2020,16,125,NELSON               ,2
+2020,17,125,NELSON               ,0
+2020,18,125,NELSON               ,4
+2020,19,125,NELSON               ,0
+2020,20,125,NELSON               ,5
+2020,21,125,NELSON               ,5
+2020,22,125,NELSON               ,3
+2020,23,125,NELSON               ,2
+2020,24,125,NELSON               ,0
+2020,1,127,NEW KENT             ,0
+2020,2,127,NEW KENT             ,4
+2020,3,127,NEW KENT             ,3
+2020,4,127,NEW KENT             ,1
+2020,5,127,NEW KENT             ,2
+2020,8,127,NEW KENT             ,3
+2020,9,127,NEW KENT             ,3
+2020,10,127,NEW KENT             ,3
+2020,11,127,NEW KENT             ,1
+2020,12,127,NEW KENT             ,4
+2020,13,127,NEW KENT             ,1
+2020,14,127,NEW KENT             ,4
+2020,15,127,NEW KENT             ,0
+2020,16,127,NEW KENT             ,4
+2020,17,127,NEW KENT             ,0
+2020,18,127,NEW KENT             ,2
+2020,19,127,NEW KENT             ,2
+2020,20,127,NEW KENT             ,4
+2020,21,127,NEW KENT             ,0
+2020,22,127,NEW KENT             ,0
+2020,24,127,NEW KENT             ,4
+2020,1,700,NEWPORT NEWS                ,30
+2020,2,700,NEWPORT NEWS                ,42
+2020,3,700,NEWPORT NEWS                ,25
+2020,4,700,NEWPORT NEWS                ,37
+2020,5,700,NEWPORT NEWS                ,44
+2020,6,700,NEWPORT NEWS                ,38
+2020,7,700,NEWPORT NEWS                ,38
+2020,8,700,NEWPORT NEWS                ,34
+2020,9,700,NEWPORT NEWS                ,38
+2020,10,700,NEWPORT NEWS                ,42
+2020,11,700,NEWPORT NEWS                ,39
+2020,12,700,NEWPORT NEWS                ,49
+2020,13,700,NEWPORT NEWS                ,48
+2020,14,700,NEWPORT NEWS                ,36
+2020,15,700,NEWPORT NEWS                ,55
+2020,16,700,NEWPORT NEWS                ,33
+2020,17,700,NEWPORT NEWS                ,37
+2020,18,700,NEWPORT NEWS                ,37
+2020,19,700,NEWPORT NEWS                ,35
+2020,20,700,NEWPORT NEWS                ,38
+2020,21,700,NEWPORT NEWS                ,31
+2020,22,700,NEWPORT NEWS                ,35
+2020,23,700,NEWPORT NEWS                ,35
+2020,24,700,NEWPORT NEWS                ,23
+2020,25,700,NEWPORT NEWS                ,3
+2020,1,710,NORFOLK                     ,56
+2020,2,710,NORFOLK                     ,49
+2020,3,710,NORFOLK                     ,74
+2020,4,710,NORFOLK                     ,49
+2020,5,710,NORFOLK                     ,62
+2020,6,710,NORFOLK                     ,42
+2020,7,710,NORFOLK                     ,59
+2020,8,710,NORFOLK                     ,50
+2020,9,710,NORFOLK                     ,53
+2020,10,710,NORFOLK                     ,66
+2020,11,710,NORFOLK                     ,55
+2020,12,710,NORFOLK                     ,50
+2020,13,710,NORFOLK                     ,54
+2020,14,710,NORFOLK                     ,40
+2020,15,710,NORFOLK                     ,57
+2020,16,710,NORFOLK                     ,41
+2020,17,710,NORFOLK                     ,49
+2020,18,710,NORFOLK                     ,54
+2020,19,710,NORFOLK                     ,39
+2020,20,710,NORFOLK                     ,43
+2020,21,710,NORFOLK                     ,47
+2020,22,710,NORFOLK                     ,44
+2020,23,710,NORFOLK                     ,46
+2020,24,710,NORFOLK                     ,28
+2020,25,710,NORFOLK                     ,9
+2020,1,131,NORTHAMPTON          ,2
+2020,2,131,NORTHAMPTON          ,1
+2020,3,131,NORTHAMPTON          ,2
+2020,4,131,NORTHAMPTON          ,4
+2020,5,131,NORTHAMPTON          ,4
+2020,6,131,NORTHAMPTON          ,1
+2020,7,131,NORTHAMPTON          ,0
+2020,8,131,NORTHAMPTON          ,3
+2020,9,131,NORTHAMPTON          ,2
+2020,10,131,NORTHAMPTON          ,1
+2020,11,131,NORTHAMPTON          ,1
+2020,12,131,NORTHAMPTON          ,2
+2020,13,131,NORTHAMPTON          ,3
+2020,14,131,NORTHAMPTON          ,1
+2020,15,131,NORTHAMPTON          ,0
+2020,16,131,NORTHAMPTON          ,0
+2020,17,131,NORTHAMPTON          ,2
+2020,18,131,NORTHAMPTON          ,0
+2020,19,131,NORTHAMPTON          ,10
+2020,20,131,NORTHAMPTON          ,2
+2020,21,131,NORTHAMPTON          ,5
+2020,22,131,NORTHAMPTON          ,2
+2020,23,131,NORTHAMPTON          ,1
+2020,24,131,NORTHAMPTON          ,0
+2020,25,131,NORTHAMPTON          ,0
+2020,1,133,NORTHUMBERLAND       ,1
+2020,2,133,NORTHUMBERLAND       ,1
+2020,6,133,NORTHUMBERLAND       ,2
+2020,7,133,NORTHUMBERLAND       ,0
+2020,8,133,NORTHUMBERLAND       ,3
+2020,9,133,NORTHUMBERLAND       ,2
+2020,10,133,NORTHUMBERLAND       ,0
+2020,11,133,NORTHUMBERLAND       ,2
+2020,12,133,NORTHUMBERLAND       ,4
+2020,13,133,NORTHUMBERLAND       ,2
+2020,14,133,NORTHUMBERLAND       ,0
+2020,15,133,NORTHUMBERLAND       ,2
+2020,16,133,NORTHUMBERLAND       ,0
+2020,17,133,NORTHUMBERLAND       ,1
+2020,18,133,NORTHUMBERLAND       ,5
+2020,19,133,NORTHUMBERLAND       ,3
+2020,20,133,NORTHUMBERLAND       ,1
+2020,22,133,NORTHUMBERLAND       ,2
+2020,23,133,NORTHUMBERLAND       ,3
+2020,24,133,NORTHUMBERLAND       ,0
+2020,1,720,NORTON                      ,5
+2020,2,720,NORTON                      ,3
+2020,3,720,NORTON                      ,6
+2020,4,720,NORTON                      ,3
+2020,5,720,NORTON                      ,5
+2020,6,720,NORTON                      ,1
+2020,7,720,NORTON                      ,3
+2020,8,720,NORTON                      ,1
+2020,9,720,NORTON                      ,7
+2020,10,720,NORTON                      ,0
+2020,11,720,NORTON                      ,6
+2020,12,720,NORTON                      ,1
+2020,13,720,NORTON                      ,2
+2020,14,720,NORTON                      ,1
+2020,15,720,NORTON                      ,6
+2020,16,720,NORTON                      ,2
+2020,17,720,NORTON                      ,7
+2020,18,720,NORTON                      ,4
+2020,19,720,NORTON                      ,2
+2020,20,720,NORTON                      ,2
+2020,21,720,NORTON                      ,6
+2020,22,720,NORTON                      ,4
+2020,23,720,NORTON                      ,2
+2020,24,720,NORTON                      ,2
+2020,25,720,NORTON                      ,4
+2020,1,135,NOTTOWAY             ,4
+2020,2,135,NOTTOWAY             ,2
+2020,3,135,NOTTOWAY             ,5
+2020,4,135,NOTTOWAY             ,6
+2020,5,135,NOTTOWAY             ,3
+2020,6,135,NOTTOWAY             ,0
+2020,7,135,NOTTOWAY             ,3
+2020,8,135,NOTTOWAY             ,5
+2020,9,135,NOTTOWAY             ,3
+2020,10,135,NOTTOWAY             ,1
+2020,11,135,NOTTOWAY             ,1
+2020,12,135,NOTTOWAY             ,0
+2020,13,135,NOTTOWAY             ,4
+2020,14,135,NOTTOWAY             ,6
+2020,15,135,NOTTOWAY             ,4
+2020,16,135,NOTTOWAY             ,1
+2020,17,135,NOTTOWAY             ,4
+2020,18,135,NOTTOWAY             ,0
+2020,19,135,NOTTOWAY             ,3
+2020,20,135,NOTTOWAY             ,2
+2020,21,135,NOTTOWAY             ,1
+2020,22,135,NOTTOWAY             ,5
+2020,23,135,NOTTOWAY             ,5
+2020,24,135,NOTTOWAY             ,5
+2020,25,135,NOTTOWAY             ,4
+2020,1,137,ORANGE               ,5
+2020,2,137,ORANGE               ,5
+2020,3,137,ORANGE               ,1
+2020,4,137,ORANGE               ,8
+2020,5,137,ORANGE               ,8
+2020,6,137,ORANGE               ,8
+2020,7,137,ORANGE               ,5
+2020,8,137,ORANGE               ,3
+2020,9,137,ORANGE               ,2
+2020,10,137,ORANGE               ,6
+2020,11,137,ORANGE               ,7
+2020,12,137,ORANGE               ,8
+2020,13,137,ORANGE               ,1
+2020,14,137,ORANGE               ,8
+2020,15,137,ORANGE               ,6
+2020,16,137,ORANGE               ,1
+2020,17,137,ORANGE               ,4
+2020,18,137,ORANGE               ,8
+2020,19,137,ORANGE               ,7
+2020,20,137,ORANGE               ,0
+2020,21,137,ORANGE               ,2
+2020,22,137,ORANGE               ,4
+2020,23,137,ORANGE               ,6
+2020,24,137,ORANGE               ,5
+2020,1,139,PAGE                 ,0
+2020,2,139,PAGE                 ,0
+2020,3,139,PAGE                 ,7
+2020,4,139,PAGE                 ,2
+2020,5,139,PAGE                 ,4
+2020,6,139,PAGE                 ,7
+2020,7,139,PAGE                 ,3
+2020,8,139,PAGE                 ,3
+2020,9,139,PAGE                 ,7
+2020,10,139,PAGE                 ,1
+2020,11,139,PAGE                 ,6
+2020,12,139,PAGE                 ,2
+2020,13,139,PAGE                 ,9
+2020,14,139,PAGE                 ,5
+2020,15,139,PAGE                 ,2
+2020,16,139,PAGE                 ,10
+2020,17,139,PAGE                 ,3
+2020,18,139,PAGE                 ,16
+2020,19,139,PAGE                 ,14
+2020,20,139,PAGE                 ,3
+2020,21,139,PAGE                 ,4
+2020,22,139,PAGE                 ,9
+2020,23,139,PAGE                 ,6
+2020,24,139,PAGE                 ,3
+2020,1,141,PATRICK              ,3
+2020,3,141,PATRICK              ,4
+2020,4,141,PATRICK              ,4
+2020,5,141,PATRICK              ,4
+2020,6,141,PATRICK              ,1
+2020,7,141,PATRICK              ,3
+2020,8,141,PATRICK              ,5
+2020,9,141,PATRICK              ,4
+2020,10,141,PATRICK              ,0
+2020,11,141,PATRICK              ,2
+2020,12,141,PATRICK              ,5
+2020,13,141,PATRICK              ,5
+2020,14,141,PATRICK              ,3
+2020,15,141,PATRICK              ,5
+2020,16,141,PATRICK              ,1
+2020,17,141,PATRICK              ,5
+2020,18,141,PATRICK              ,2
+2020,19,141,PATRICK              ,5
+2020,20,141,PATRICK              ,2
+2020,21,141,PATRICK              ,1
+2020,22,141,PATRICK              ,0
+2020,24,141,PATRICK              ,1
+2020,25,141,PATRICK              ,0
+2020,1,730,PETERSBURG                  ,20
+2020,2,730,PETERSBURG                  ,15
+2020,3,730,PETERSBURG                  ,16
+2020,4,730,PETERSBURG                  ,17
+2020,5,730,PETERSBURG                  ,19
+2020,6,730,PETERSBURG                  ,12
+2020,7,730,PETERSBURG                  ,11
+2020,8,730,PETERSBURG                  ,10
+2020,9,730,PETERSBURG                  ,17
+2020,10,730,PETERSBURG                  ,20
+2020,11,730,PETERSBURG                  ,14
+2020,12,730,PETERSBURG                  ,16
+2020,13,730,PETERSBURG                  ,14
+2020,14,730,PETERSBURG                  ,14
+2020,15,730,PETERSBURG                  ,21
+2020,16,730,PETERSBURG                  ,23
+2020,17,730,PETERSBURG                  ,23
+2020,18,730,PETERSBURG                  ,14
+2020,19,730,PETERSBURG                  ,10
+2020,20,730,PETERSBURG                  ,19
+2020,21,730,PETERSBURG                  ,16
+2020,22,730,PETERSBURG                  ,15
+2020,23,730,PETERSBURG                  ,18
+2020,24,730,PETERSBURG                  ,11
+2020,25,730,PETERSBURG                  ,1
+2020,1,143,PITTSYLVANIA         ,7
+2020,2,143,PITTSYLVANIA         ,10
+2020,3,143,PITTSYLVANIA         ,9
+2020,4,143,PITTSYLVANIA         ,10
+2020,5,143,PITTSYLVANIA         ,5
+2020,6,143,PITTSYLVANIA         ,8
+2020,7,143,PITTSYLVANIA         ,8
+2020,8,143,PITTSYLVANIA         ,8
+2020,9,143,PITTSYLVANIA         ,5
+2020,10,143,PITTSYLVANIA         ,17
+2020,11,143,PITTSYLVANIA         ,11
+2020,12,143,PITTSYLVANIA         ,9
+2020,13,143,PITTSYLVANIA         ,10
+2020,14,143,PITTSYLVANIA         ,7
+2020,15,143,PITTSYLVANIA         ,9
+2020,16,143,PITTSYLVANIA         ,10
+2020,17,143,PITTSYLVANIA         ,8
+2020,18,143,PITTSYLVANIA         ,11
+2020,19,143,PITTSYLVANIA         ,14
+2020,20,143,PITTSYLVANIA         ,5
+2020,21,143,PITTSYLVANIA         ,8
+2020,22,143,PITTSYLVANIA         ,5
+2020,23,143,PITTSYLVANIA         ,9
+2020,24,143,PITTSYLVANIA         ,5
+2020,25,143,PITTSYLVANIA         ,3
+2020,1,735,POQUOSON                    ,2
+2020,2,735,POQUOSON                    ,3
+2020,3,735,POQUOSON                    ,0
+2020,4,735,POQUOSON                    ,1
+2020,5,735,POQUOSON                    ,2
+2020,6,735,POQUOSON                    ,4
+2020,7,735,POQUOSON                    ,2
+2020,8,735,POQUOSON                    ,4
+2020,9,735,POQUOSON                    ,3
+2020,10,735,POQUOSON                    ,1
+2020,11,735,POQUOSON                    ,1
+2020,13,735,POQUOSON                    ,1
+2020,15,735,POQUOSON                    ,3
+2020,16,735,POQUOSON                    ,3
+2020,17,735,POQUOSON                    ,2
+2020,18,735,POQUOSON                    ,3
+2020,19,735,POQUOSON                    ,2
+2020,21,735,POQUOSON                    ,4
+2020,22,735,POQUOSON                    ,1
+2020,23,735,POQUOSON                    ,2
+2020,24,735,POQUOSON                    ,0
+2020,25,735,POQUOSON                    ,0
+2020,1,740,PORTSMOUTH                  ,21
+2020,2,740,PORTSMOUTH                  ,21
+2020,3,740,PORTSMOUTH                  ,24
+2020,4,740,PORTSMOUTH                  ,24
+2020,5,740,PORTSMOUTH                  ,33
+2020,6,740,PORTSMOUTH                  ,17
+2020,7,740,PORTSMOUTH                  ,18
+2020,8,740,PORTSMOUTH                  ,23
+2020,9,740,PORTSMOUTH                  ,22
+2020,10,740,PORTSMOUTH                  ,18
+2020,11,740,PORTSMOUTH                  ,30
+2020,12,740,PORTSMOUTH                  ,24
+2020,13,740,PORTSMOUTH                  ,22
+2020,14,740,PORTSMOUTH                  ,23
+2020,15,740,PORTSMOUTH                  ,21
+2020,16,740,PORTSMOUTH                  ,19
+2020,17,740,PORTSMOUTH                  ,16
+2020,18,740,PORTSMOUTH                  ,23
+2020,19,740,PORTSMOUTH                  ,24
+2020,20,740,PORTSMOUTH                  ,22
+2020,21,740,PORTSMOUTH                  ,14
+2020,22,740,PORTSMOUTH                  ,10
+2020,23,740,PORTSMOUTH                  ,20
+2020,24,740,PORTSMOUTH                  ,10
+2020,25,740,PORTSMOUTH                  ,2
+2020,1,145,POWHATAN             ,4
+2020,2,145,POWHATAN             ,0
+2020,3,145,POWHATAN             ,4
+2020,4,145,POWHATAN             ,4
+2020,5,145,POWHATAN             ,1
+2020,6,145,POWHATAN             ,3
+2020,7,145,POWHATAN             ,2
+2020,8,145,POWHATAN             ,4
+2020,9,145,POWHATAN             ,2
+2020,10,145,POWHATAN             ,1
+2020,11,145,POWHATAN             ,5
+2020,12,145,POWHATAN             ,5
+2020,13,145,POWHATAN             ,4
+2020,14,145,POWHATAN             ,4
+2020,15,145,POWHATAN             ,0
+2020,16,145,POWHATAN             ,2
+2020,17,145,POWHATAN             ,1
+2020,18,145,POWHATAN             ,2
+2020,19,145,POWHATAN             ,0
+2020,20,145,POWHATAN             ,4
+2020,21,145,POWHATAN             ,4
+2020,22,145,POWHATAN             ,2
+2020,23,145,POWHATAN             ,2
+2020,24,145,POWHATAN             ,5
+2020,1,147,PRINCE EDWARD        ,9
+2020,2,147,PRINCE EDWARD        ,6
+2020,3,147,PRINCE EDWARD        ,9
+2020,4,147,PRINCE EDWARD        ,9
+2020,5,147,PRINCE EDWARD        ,0
+2020,6,147,PRINCE EDWARD        ,7
+2020,7,147,PRINCE EDWARD        ,2
+2020,8,147,PRINCE EDWARD        ,0
+2020,9,147,PRINCE EDWARD        ,3
+2020,10,147,PRINCE EDWARD        ,3
+2020,11,147,PRINCE EDWARD        ,10
+2020,12,147,PRINCE EDWARD        ,5
+2020,13,147,PRINCE EDWARD        ,8
+2020,14,147,PRINCE EDWARD        ,6
+2020,15,147,PRINCE EDWARD        ,9
+2020,16,147,PRINCE EDWARD        ,0
+2020,17,147,PRINCE EDWARD        ,5
+2020,18,147,PRINCE EDWARD        ,6
+2020,19,147,PRINCE EDWARD        ,5
+2020,20,147,PRINCE EDWARD        ,5
+2020,21,147,PRINCE EDWARD        ,9
+2020,22,147,PRINCE EDWARD        ,8
+2020,23,147,PRINCE EDWARD        ,3
+2020,24,147,PRINCE EDWARD        ,8
+2020,25,147,PRINCE EDWARD        ,2
+2020,1,149,PRINCE GEORGE        ,6
+2020,2,149,PRINCE GEORGE        ,5
+2020,3,149,PRINCE GEORGE        ,3
+2020,4,149,PRINCE GEORGE        ,0
+2020,5,149,PRINCE GEORGE        ,4
+2020,6,149,PRINCE GEORGE        ,0
+2020,7,149,PRINCE GEORGE        ,0
+2020,8,149,PRINCE GEORGE        ,5
+2020,9,149,PRINCE GEORGE        ,3
+2020,10,149,PRINCE GEORGE        ,3
+2020,12,149,PRINCE GEORGE        ,2
+2020,13,149,PRINCE GEORGE        ,2
+2020,14,149,PRINCE GEORGE        ,5
+2020,16,149,PRINCE GEORGE        ,4
+2020,17,149,PRINCE GEORGE        ,1
+2020,18,149,PRINCE GEORGE        ,0
+2020,19,149,PRINCE GEORGE        ,4
+2020,20,149,PRINCE GEORGE        ,1
+2020,21,149,PRINCE GEORGE        ,3
+2020,22,149,PRINCE GEORGE        ,1
+2020,24,149,PRINCE GEORGE        ,6
+2020,25,149,PRINCE GEORGE        ,3
+2020,1,153,PRINCE WILLIAM       ,38
+2020,2,153,PRINCE WILLIAM       ,45
+2020,3,153,PRINCE WILLIAM       ,44
+2020,4,153,PRINCE WILLIAM       ,28
+2020,5,153,PRINCE WILLIAM       ,29
+2020,6,153,PRINCE WILLIAM       ,36
+2020,7,153,PRINCE WILLIAM       ,38
+2020,8,153,PRINCE WILLIAM       ,27
+2020,9,153,PRINCE WILLIAM       ,34
+2020,10,153,PRINCE WILLIAM       ,25
+2020,11,153,PRINCE WILLIAM       ,32
+2020,12,153,PRINCE WILLIAM       ,38
+2020,13,153,PRINCE WILLIAM       ,37
+2020,14,153,PRINCE WILLIAM       ,38
+2020,15,153,PRINCE WILLIAM       ,53
+2020,16,153,PRINCE WILLIAM       ,53
+2020,17,153,PRINCE WILLIAM       ,36
+2020,18,153,PRINCE WILLIAM       ,45
+2020,19,153,PRINCE WILLIAM       ,45
+2020,20,153,PRINCE WILLIAM       ,45
+2020,21,153,PRINCE WILLIAM       ,43
+2020,22,153,PRINCE WILLIAM       ,45
+2020,23,153,PRINCE WILLIAM       ,40
+2020,24,153,PRINCE WILLIAM       ,28
+2020,25,153,PRINCE WILLIAM       ,10
+2020,1,155,PULASKI              ,6
+2020,2,155,PULASKI              ,9
+2020,3,155,PULASKI              ,5
+2020,4,155,PULASKI              ,12
+2020,5,155,PULASKI              ,9
+2020,6,155,PULASKI              ,9
+2020,7,155,PULASKI              ,8
+2020,8,155,PULASKI              ,9
+2020,9,155,PULASKI              ,7
+2020,10,155,PULASKI              ,5
+2020,11,155,PULASKI              ,7
+2020,12,155,PULASKI              ,10
+2020,13,155,PULASKI              ,4
+2020,14,155,PULASKI              ,12
+2020,15,155,PULASKI              ,2
+2020,16,155,PULASKI              ,5
+2020,17,155,PULASKI              ,4
+2020,18,155,PULASKI              ,6
+2020,19,155,PULASKI              ,5
+2020,20,155,PULASKI              ,8
+2020,21,155,PULASKI              ,3
+2020,22,155,PULASKI              ,10
+2020,23,155,PULASKI              ,12
+2020,24,155,PULASKI              ,10
+2020,25,155,PULASKI              ,0
+2020,1,750,RADFORD                     ,1
+2020,2,750,RADFORD                     ,5
+2020,3,750,RADFORD                     ,2
+2020,4,750,RADFORD                     ,1
+2020,5,750,RADFORD                     ,2
+2020,6,750,RADFORD                     ,1
+2020,7,750,RADFORD                     ,3
+2020,9,750,RADFORD                     ,0
+2020,10,750,RADFORD                     ,2
+2020,11,750,RADFORD                     ,1
+2020,12,750,RADFORD                     ,4
+2020,13,750,RADFORD                     ,2
+2020,14,750,RADFORD                     ,3
+2020,15,750,RADFORD                     ,1
+2020,16,750,RADFORD                     ,2
+2020,17,750,RADFORD                     ,0
+2020,18,750,RADFORD                     ,3
+2020,19,750,RADFORD                     ,1
+2020,20,750,RADFORD                     ,5
+2020,21,750,RADFORD                     ,1
+2020,22,750,RADFORD                     ,0
+2020,23,750,RADFORD                     ,3
+2020,24,750,RADFORD                     ,3
+2020,3,157,RAPPAHANNOCK         ,0
+2020,4,157,RAPPAHANNOCK         ,4
+2020,5,157,RAPPAHANNOCK         ,4
+2020,6,157,RAPPAHANNOCK         ,0
+2020,10,157,RAPPAHANNOCK         ,0
+2020,11,157,RAPPAHANNOCK         ,3
+2020,12,157,RAPPAHANNOCK         ,3
+2020,14,157,RAPPAHANNOCK         ,1
+2020,16,157,RAPPAHANNOCK         ,4
+2020,18,157,RAPPAHANNOCK         ,2
+2020,20,157,RAPPAHANNOCK         ,1
+2020,21,157,RAPPAHANNOCK         ,1
+2020,22,157,RAPPAHANNOCK         ,2
+2020,23,157,RAPPAHANNOCK         ,4
+2020,24,157,RAPPAHANNOCK         ,3
+2020,1,760,RICHMONDCIT                    ,75
+2020,2,760,RICHMONDCIT                    ,81
+2020,3,760,RICHMONDCIT                    ,66
+2020,4,760,RICHMONDCIT                    ,64
+2020,5,760,RICHMONDCIT                    ,77
+2020,6,760,RICHMONDCIT                    ,53
+2020,7,760,RICHMONDCIT                    ,61
+2020,8,760,RICHMONDCIT                    ,57
+2020,9,760,RICHMONDCIT                    ,79
+2020,10,760,RICHMONDCIT                    ,74
+2020,11,760,RICHMONDCIT                    ,60
+2020,12,760,RICHMONDCIT                    ,63
+2020,13,760,RICHMONDCIT                    ,59
+2020,14,760,RICHMONDCIT                    ,66
+2020,15,760,RICHMONDCIT                    ,64
+2020,16,760,RICHMONDCIT                    ,56
+2020,17,760,RICHMONDCIT                    ,64
+2020,18,760,RICHMONDCIT                    ,67
+2020,19,760,RICHMONDCIT                    ,53
+2020,20,760,RICHMONDCIT                    ,65
+2020,21,760,RICHMONDCIT                    ,54
+2020,22,760,RICHMONDCIT                    ,55
+2020,23,760,RICHMONDCIT                    ,53
+2020,24,760,RICHMONDCIT                    ,30
+2020,25,760,RICHMONDCIT                    ,10
+2020,1,159,RICHMOND             ,0
+2020,2,159,RICHMOND             ,3
+2020,3,159,RICHMOND             ,1
+2020,4,159,RICHMOND             ,4
+2020,5,159,RICHMOND             ,0
+2020,6,159,RICHMOND             ,0
+2020,7,159,RICHMOND             ,3
+2020,8,159,RICHMOND             ,3
+2020,9,159,RICHMOND             ,0
+2020,10,159,RICHMOND             ,3
+2020,11,159,RICHMOND             ,2
+2020,12,159,RICHMOND             ,4
+2020,13,159,RICHMOND             ,1
+2020,15,159,RICHMOND             ,0
+2020,16,159,RICHMOND             ,0
+2020,17,159,RICHMOND             ,0
+2020,18,159,RICHMOND             ,3
+2020,19,159,RICHMOND             ,1
+2020,20,159,RICHMOND             ,4
+2020,21,159,RICHMOND             ,3
+2020,24,159,RICHMOND             ,2
+2020,1,770,ROANOKECIT                     ,48
+2020,2,770,ROANOKECIT                     ,49
+2020,3,770,ROANOKECIT                     ,60
+2020,4,770,ROANOKECIT                     ,46
+2020,5,770,ROANOKECIT                     ,51
+2020,6,770,ROANOKECIT                     ,48
+2020,7,770,ROANOKECIT                     ,47
+2020,8,770,ROANOKECIT                     ,45
+2020,9,770,ROANOKECIT                     ,49
+2020,10,770,ROANOKECIT                     ,49
+2020,11,770,ROANOKECIT                     ,52
+2020,12,770,ROANOKECIT                     ,46
+2020,13,770,ROANOKECIT                     ,46
+2020,14,770,ROANOKECIT                     ,45
+2020,15,770,ROANOKECIT                     ,52
+2020,16,770,ROANOKECIT                     ,53
+2020,17,770,ROANOKECIT                     ,59
+2020,18,770,ROANOKECIT                     ,47
+2020,19,770,ROANOKECIT                     ,40
+2020,20,770,ROANOKECIT                     ,46
+2020,21,770,ROANOKECIT                     ,61
+2020,22,770,ROANOKECIT                     ,26
+2020,23,770,ROANOKECIT                     ,43
+2020,24,770,ROANOKECIT                     ,41
+2020,25,770,ROANOKECIT                     ,19
+2020,1,161,ROANOKE              ,14
+2020,2,161,ROANOKE              ,15
+2020,3,161,ROANOKE              ,14
+2020,4,161,ROANOKE              ,14
+2020,5,161,ROANOKE              ,8
+2020,6,161,ROANOKE              ,15
+2020,7,161,ROANOKE              ,14
+2020,8,161,ROANOKE              ,11
+2020,9,161,ROANOKE              ,7
+2020,10,161,ROANOKE              ,9
+2020,11,161,ROANOKE              ,12
+2020,12,161,ROANOKE              ,9
+2020,13,161,ROANOKE              ,14
+2020,14,161,ROANOKE              ,18
+2020,15,161,ROANOKE              ,14
+2020,16,161,ROANOKE              ,18
+2020,17,161,ROANOKE              ,13
+2020,18,161,ROANOKE              ,12
+2020,19,161,ROANOKE              ,14
+2020,20,161,ROANOKE              ,14
+2020,21,161,ROANOKE              ,14
+2020,22,161,ROANOKE              ,11
+2020,23,161,ROANOKE              ,21
+2020,24,161,ROANOKE              ,9
+2020,25,161,ROANOKE              ,3
+2020,1,163,ROCKBRIDGE           ,1
+2020,2,163,ROCKBRIDGE           ,3
+2020,3,163,ROCKBRIDGE           ,4
+2020,4,163,ROCKBRIDGE           ,3
+2020,5,163,ROCKBRIDGE           ,2
+2020,6,163,ROCKBRIDGE           ,0
+2020,7,163,ROCKBRIDGE           ,0
+2020,8,163,ROCKBRIDGE           ,5
+2020,9,163,ROCKBRIDGE           ,5
+2020,10,163,ROCKBRIDGE           ,3
+2020,11,163,ROCKBRIDGE           ,4
+2020,12,163,ROCKBRIDGE           ,9
+2020,13,163,ROCKBRIDGE           ,8
+2020,14,163,ROCKBRIDGE           ,3
+2020,15,163,ROCKBRIDGE           ,5
+2020,16,163,ROCKBRIDGE           ,0
+2020,17,163,ROCKBRIDGE           ,0
+2020,18,163,ROCKBRIDGE           ,1
+2020,20,163,ROCKBRIDGE           ,4
+2020,21,163,ROCKBRIDGE           ,4
+2020,22,163,ROCKBRIDGE           ,3
+2020,23,163,ROCKBRIDGE           ,0
+2020,24,163,ROCKBRIDGE           ,0
+2020,25,163,ROCKBRIDGE           ,0
+2020,1,165,ROCKINGHAM           ,20
+2020,2,165,ROCKINGHAM           ,22
+2020,3,165,ROCKINGHAM           ,21
+2020,4,165,ROCKINGHAM           ,19
+2020,5,165,ROCKINGHAM           ,17
+2020,6,165,ROCKINGHAM           ,21
+2020,7,165,ROCKINGHAM           ,15
+2020,8,165,ROCKINGHAM           ,11
+2020,9,165,ROCKINGHAM           ,7
+2020,10,165,ROCKINGHAM           ,21
+2020,11,165,ROCKINGHAM           ,16
+2020,12,165,ROCKINGHAM           ,23
+2020,13,165,ROCKINGHAM           ,24
+2020,14,165,ROCKINGHAM           ,22
+2020,15,165,ROCKINGHAM           ,20
+2020,16,165,ROCKINGHAM           ,17
+2020,17,165,ROCKINGHAM           ,22
+2020,18,165,ROCKINGHAM           ,24
+2020,19,165,ROCKINGHAM           ,15
+2020,20,165,ROCKINGHAM           ,23
+2020,21,165,ROCKINGHAM           ,23
+2020,22,165,ROCKINGHAM           ,17
+2020,23,165,ROCKINGHAM           ,23
+2020,24,165,ROCKINGHAM           ,16
+2020,25,165,ROCKINGHAM           ,5
+2020,1,167,RUSSELL              ,4
+2020,2,167,RUSSELL              ,3
+2020,3,167,RUSSELL              ,0
+2020,4,167,RUSSELL              ,0
+2020,5,167,RUSSELL              ,5
+2020,6,167,RUSSELL              ,2
+2020,7,167,RUSSELL              ,10
+2020,8,167,RUSSELL              ,5
+2020,9,167,RUSSELL              ,1
+2020,10,167,RUSSELL              ,10
+2020,11,167,RUSSELL              ,7
+2020,12,167,RUSSELL              ,6
+2020,13,167,RUSSELL              ,0
+2020,14,167,RUSSELL              ,8
+2020,15,167,RUSSELL              ,5
+2020,16,167,RUSSELL              ,6
+2020,17,167,RUSSELL              ,7
+2020,18,167,RUSSELL              ,10
+2020,19,167,RUSSELL              ,0
+2020,20,167,RUSSELL              ,0
+2020,21,167,RUSSELL              ,0
+2020,22,167,RUSSELL              ,1
+2020,23,167,RUSSELL              ,4
+2020,24,167,RUSSELL              ,0
+2020,25,167,RUSSELL              ,5
+2020,1,775,SALEM                       ,26
+2020,2,775,SALEM                       ,22
+2020,3,775,SALEM                       ,31
+2020,4,775,SALEM                       ,19
+2020,5,775,SALEM                       ,19
+2020,6,775,SALEM                       ,24
+2020,7,775,SALEM                       ,15
+2020,8,775,SALEM                       ,30
+2020,9,775,SALEM                       ,27
+2020,10,775,SALEM                       ,17
+2020,11,775,SALEM                       ,24
+2020,12,775,SALEM                       ,20
+2020,13,775,SALEM                       ,13
+2020,14,775,SALEM                       ,21
+2020,15,775,SALEM                       ,14
+2020,16,775,SALEM                       ,18
+2020,17,775,SALEM                       ,21
+2020,18,775,SALEM                       ,28
+2020,19,775,SALEM                       ,14
+2020,20,775,SALEM                       ,18
+2020,21,775,SALEM                       ,16
+2020,22,775,SALEM                       ,14
+2020,23,775,SALEM                       ,12
+2020,24,775,SALEM                       ,16
+2020,25,775,SALEM                       ,4
+2020,1,169,SCOTT                ,6
+2020,2,169,SCOTT                ,5
+2020,3,169,SCOTT                ,1
+2020,4,169,SCOTT                ,1
+2020,5,169,SCOTT                ,4
+2020,6,169,SCOTT                ,10
+2020,7,169,SCOTT                ,4
+2020,8,169,SCOTT                ,1
+2020,9,169,SCOTT                ,5
+2020,11,169,SCOTT                ,1
+2020,12,169,SCOTT                ,2
+2020,13,169,SCOTT                ,7
+2020,14,169,SCOTT                ,6
+2020,15,169,SCOTT                ,5
+2020,16,169,SCOTT                ,0
+2020,17,169,SCOTT                ,1
+2020,18,169,SCOTT                ,2
+2020,19,169,SCOTT                ,0
+2020,21,169,SCOTT                ,6
+2020,22,169,SCOTT                ,2
+2020,23,169,SCOTT                ,3
+2020,24,169,SCOTT                ,0
+2020,1,171,SHENANDOAH           ,6
+2020,2,171,SHENANDOAH           ,12
+2020,3,171,SHENANDOAH           ,6
+2020,4,171,SHENANDOAH           ,5
+2020,5,171,SHENANDOAH           ,7
+2020,6,171,SHENANDOAH           ,7
+2020,7,171,SHENANDOAH           ,7
+2020,8,171,SHENANDOAH           ,9
+2020,9,171,SHENANDOAH           ,13
+2020,10,171,SHENANDOAH           ,11
+2020,11,171,SHENANDOAH           ,11
+2020,12,171,SHENANDOAH           ,10
+2020,13,171,SHENANDOAH           ,7
+2020,14,171,SHENANDOAH           ,10
+2020,15,171,SHENANDOAH           ,9
+2020,16,171,SHENANDOAH           ,8
+2020,17,171,SHENANDOAH           ,11
+2020,18,171,SHENANDOAH           ,10
+2020,19,171,SHENANDOAH           ,21
+2020,20,171,SHENANDOAH           ,9
+2020,21,171,SHENANDOAH           ,12
+2020,22,171,SHENANDOAH           ,13
+2020,23,171,SHENANDOAH           ,11
+2020,24,171,SHENANDOAH           ,5
+2020,25,171,SHENANDOAH           ,1
+2020,1,173,SMYTH                ,3
+2020,2,173,SMYTH                ,6
+2020,3,173,SMYTH                ,11
+2020,4,173,SMYTH                ,12
+2020,5,173,SMYTH                ,10
+2020,6,173,SMYTH                ,9
+2020,7,173,SMYTH                ,1
+2020,8,173,SMYTH                ,7
+2020,9,173,SMYTH                ,7
+2020,10,173,SMYTH                ,7
+2020,11,173,SMYTH                ,5
+2020,12,173,SMYTH                ,6
+2020,13,173,SMYTH                ,9
+2020,14,173,SMYTH                ,6
+2020,15,173,SMYTH                ,9
+2020,16,173,SMYTH                ,5
+2020,17,173,SMYTH                ,12
+2020,18,173,SMYTH                ,8
+2020,19,173,SMYTH                ,11
+2020,20,173,SMYTH                ,8
+2020,21,173,SMYTH                ,6
+2020,22,173,SMYTH                ,4
+2020,23,173,SMYTH                ,5
+2020,24,173,SMYTH                ,5
+2020,25,173,SMYTH                ,1
+2020,1,175,SOUTHAMPTON          ,4
+2020,2,175,SOUTHAMPTON          ,3
+2020,3,175,SOUTHAMPTON          ,2
+2020,4,175,SOUTHAMPTON          ,3
+2020,5,175,SOUTHAMPTON          ,4
+2020,6,175,SOUTHAMPTON          ,2
+2020,7,175,SOUTHAMPTON          ,6
+2020,9,175,SOUTHAMPTON          ,3
+2020,10,175,SOUTHAMPTON          ,3
+2020,11,175,SOUTHAMPTON          ,3
+2020,12,175,SOUTHAMPTON          ,4
+2020,13,175,SOUTHAMPTON          ,4
+2020,14,175,SOUTHAMPTON          ,1
+2020,15,175,SOUTHAMPTON          ,2
+2020,17,175,SOUTHAMPTON          ,2
+2020,18,175,SOUTHAMPTON          ,7
+2020,19,175,SOUTHAMPTON          ,3
+2020,20,175,SOUTHAMPTON          ,5
+2020,21,175,SOUTHAMPTON          ,0
+2020,22,175,SOUTHAMPTON          ,0
+2020,23,175,SOUTHAMPTON          ,3
+2020,24,175,SOUTHAMPTON          ,3
+2020,25,175,SOUTHAMPTON          ,0
+2020,1,177,SPOTSYLVANIA         ,11
+2020,2,177,SPOTSYLVANIA         ,15
+2020,3,177,SPOTSYLVANIA         ,16
+2020,4,177,SPOTSYLVANIA         ,11
+2020,5,177,SPOTSYLVANIA         ,13
+2020,6,177,SPOTSYLVANIA         ,9
+2020,7,177,SPOTSYLVANIA         ,23
+2020,8,177,SPOTSYLVANIA         ,14
+2020,9,177,SPOTSYLVANIA         ,19
+2020,10,177,SPOTSYLVANIA         ,13
+2020,11,177,SPOTSYLVANIA         ,16
+2020,12,177,SPOTSYLVANIA         ,13
+2020,13,177,SPOTSYLVANIA         ,20
+2020,14,177,SPOTSYLVANIA         ,18
+2020,15,177,SPOTSYLVANIA         ,11
+2020,16,177,SPOTSYLVANIA         ,13
+2020,17,177,SPOTSYLVANIA         ,20
+2020,18,177,SPOTSYLVANIA         ,11
+2020,19,177,SPOTSYLVANIA         ,24
+2020,20,177,SPOTSYLVANIA         ,22
+2020,21,177,SPOTSYLVANIA         ,18
+2020,22,177,SPOTSYLVANIA         ,20
+2020,23,177,SPOTSYLVANIA         ,13
+2020,24,177,SPOTSYLVANIA         ,16
+2020,25,177,SPOTSYLVANIA         ,3
+2020,1,179,STAFFORD             ,12
+2020,2,179,STAFFORD             ,9
+2020,3,179,STAFFORD             ,11
+2020,4,179,STAFFORD             ,8
+2020,5,179,STAFFORD             ,10
+2020,6,179,STAFFORD             ,9
+2020,7,179,STAFFORD             ,11
+2020,8,179,STAFFORD             ,9
+2020,9,179,STAFFORD             ,5
+2020,10,179,STAFFORD             ,9
+2020,11,179,STAFFORD             ,12
+2020,12,179,STAFFORD             ,13
+2020,13,179,STAFFORD             ,8
+2020,14,179,STAFFORD             ,11
+2020,15,179,STAFFORD             ,6
+2020,16,179,STAFFORD             ,9
+2020,17,179,STAFFORD             ,7
+2020,18,179,STAFFORD             ,10
+2020,19,179,STAFFORD             ,9
+2020,20,179,STAFFORD             ,7
+2020,21,179,STAFFORD             ,11
+2020,22,179,STAFFORD             ,15
+2020,23,179,STAFFORD             ,10
+2020,24,179,STAFFORD             ,7
+2020,25,179,STAFFORD             ,2
+2020,1,790,STAUNTON                    ,7
+2020,2,790,STAUNTON                    ,3
+2020,3,790,STAUNTON                    ,6
+2020,4,790,STAUNTON                    ,0
+2020,5,790,STAUNTON                    ,4
+2020,6,790,STAUNTON                    ,8
+2020,7,790,STAUNTON                    ,3
+2020,8,790,STAUNTON                    ,8
+2020,9,790,STAUNTON                    ,7
+2020,10,790,STAUNTON                    ,8
+2020,11,790,STAUNTON                    ,9
+2020,12,790,STAUNTON                    ,5
+2020,13,790,STAUNTON                    ,0
+2020,14,790,STAUNTON                    ,9
+2020,15,790,STAUNTON                    ,10
+2020,16,790,STAUNTON                    ,1
+2020,17,790,STAUNTON                    ,8
+2020,18,790,STAUNTON                    ,2
+2020,19,790,STAUNTON                    ,6
+2020,20,790,STAUNTON                    ,6
+2020,21,790,STAUNTON                    ,9
+2020,22,790,STAUNTON                    ,8
+2020,23,790,STAUNTON                    ,5
+2020,24,790,STAUNTON                    ,1
+2020,25,790,STAUNTON                    ,1
+2020,1,800,SUFFOLK                     ,20
+2020,2,800,SUFFOLK                     ,18
+2020,3,800,SUFFOLK                     ,8
+2020,4,800,SUFFOLK                     ,15
+2020,5,800,SUFFOLK                     ,17
+2020,6,800,SUFFOLK                     ,14
+2020,7,800,SUFFOLK                     ,20
+2020,8,800,SUFFOLK                     ,29
+2020,9,800,SUFFOLK                     ,17
+2020,10,800,SUFFOLK                     ,20
+2020,11,800,SUFFOLK                     ,12
+2020,12,800,SUFFOLK                     ,18
+2020,13,800,SUFFOLK                     ,13
+2020,14,800,SUFFOLK                     ,21
+2020,15,800,SUFFOLK                     ,20
+2020,16,800,SUFFOLK                     ,29
+2020,17,800,SUFFOLK                     ,25
+2020,18,800,SUFFOLK                     ,19
+2020,19,800,SUFFOLK                     ,20
+2020,20,800,SUFFOLK                     ,24
+2020,21,800,SUFFOLK                     ,19
+2020,22,800,SUFFOLK                     ,11
+2020,23,800,SUFFOLK                     ,18
+2020,24,800,SUFFOLK                     ,15
+2020,25,800,SUFFOLK                     ,1
+2020,1,181,SURRY                ,1
+2020,6,181,SURRY                ,1
+2020,7,181,SURRY                ,2
+2020,8,181,SURRY                ,4
+2020,11,181,SURRY                ,3
+2020,12,181,SURRY                ,2
+2020,13,181,SURRY                ,4
+2020,14,181,SURRY                ,4
+2020,16,181,SURRY                ,4
+2020,17,181,SURRY                ,4
+2020,18,181,SURRY                ,1
+2020,19,181,SURRY                ,3
+2020,20,181,SURRY                ,4
+2020,21,181,SURRY                ,0
+2020,23,181,SURRY                ,0
+2020,1,183,SUSSEX               ,3
+2020,2,183,SUSSEX               ,1
+2020,4,183,SUSSEX               ,3
+2020,5,183,SUSSEX               ,2
+2020,6,183,SUSSEX               ,3
+2020,7,183,SUSSEX               ,0
+2020,9,183,SUSSEX               ,4
+2020,10,183,SUSSEX               ,2
+2020,11,183,SUSSEX               ,6
+2020,12,183,SUSSEX               ,0
+2020,13,183,SUSSEX               ,4
+2020,14,183,SUSSEX               ,2
+2020,15,183,SUSSEX               ,3
+2020,17,183,SUSSEX               ,4
+2020,18,183,SUSSEX               ,4
+2020,20,183,SUSSEX               ,1
+2020,21,183,SUSSEX               ,1
+2020,22,183,SUSSEX               ,3
+2020,23,183,SUSSEX               ,1
+2020,1,185,TAZEWELL             ,12
+2020,2,185,TAZEWELL             ,11
+2020,3,185,TAZEWELL             ,5
+2020,4,185,TAZEWELL             ,9
+2020,5,185,TAZEWELL             ,9
+2020,6,185,TAZEWELL             ,8
+2020,7,185,TAZEWELL             ,13
+2020,8,185,TAZEWELL             ,12
+2020,9,185,TAZEWELL             ,8
+2020,10,185,TAZEWELL             ,10
+2020,11,185,TAZEWELL             ,12
+2020,12,185,TAZEWELL             ,11
+2020,13,185,TAZEWELL             ,14
+2020,14,185,TAZEWELL             ,9
+2020,15,185,TAZEWELL             ,11
+2020,16,185,TAZEWELL             ,9
+2020,17,185,TAZEWELL             ,10
+2020,18,185,TAZEWELL             ,11
+2020,19,185,TAZEWELL             ,10
+2020,20,185,TAZEWELL             ,6
+2020,21,185,TAZEWELL             ,3
+2020,22,185,TAZEWELL             ,14
+2020,23,185,TAZEWELL             ,7
+2020,24,185,TAZEWELL             ,9
+2020,25,185,TAZEWELL             ,3
+2020,1,810,VIRGINIA BEACH              ,59
+2020,2,810,VIRGINIA BEACH              ,78
+2020,3,810,VIRGINIA BEACH              ,51
+2020,4,810,VIRGINIA BEACH              ,82
+2020,5,810,VIRGINIA BEACH              ,61
+2020,6,810,VIRGINIA BEACH              ,59
+2020,7,810,VIRGINIA BEACH              ,55
+2020,8,810,VIRGINIA BEACH              ,60
+2020,9,810,VIRGINIA BEACH              ,68
+2020,10,810,VIRGINIA BEACH              ,50
+2020,11,810,VIRGINIA BEACH              ,50
+2020,12,810,VIRGINIA BEACH              ,65
+2020,13,810,VIRGINIA BEACH              ,55
+2020,14,810,VIRGINIA BEACH              ,67
+2020,15,810,VIRGINIA BEACH              ,58
+2020,16,810,VIRGINIA BEACH              ,56
+2020,17,810,VIRGINIA BEACH              ,72
+2020,18,810,VIRGINIA BEACH              ,57
+2020,19,810,VIRGINIA BEACH              ,61
+2020,20,810,VIRGINIA BEACH              ,69
+2020,21,810,VIRGINIA BEACH              ,56
+2020,22,810,VIRGINIA BEACH              ,35
+2020,23,810,VIRGINIA BEACH              ,63
+2020,24,810,VIRGINIA BEACH              ,47
+2020,25,810,VIRGINIA BEACH              ,24
+2020,1,187,WARREN               ,7
+2020,2,187,WARREN               ,7
+2020,3,187,WARREN               ,6
+2020,4,187,WARREN               ,1
+2020,5,187,WARREN               ,8
+2020,6,187,WARREN               ,9
+2020,7,187,WARREN               ,2
+2020,8,187,WARREN               ,8
+2020,9,187,WARREN               ,11
+2020,10,187,WARREN               ,5
+2020,11,187,WARREN               ,5
+2020,12,187,WARREN               ,8
+2020,13,187,WARREN               ,2
+2020,14,187,WARREN               ,9
+2020,15,187,WARREN               ,7
+2020,16,187,WARREN               ,6
+2020,17,187,WARREN               ,2
+2020,18,187,WARREN               ,6
+2020,19,187,WARREN               ,3
+2020,20,187,WARREN               ,6
+2020,21,187,WARREN               ,5
+2020,22,187,WARREN               ,7
+2020,23,187,WARREN               ,8
+2020,24,187,WARREN               ,5
+2020,25,187,WARREN               ,2
+2020,1,191,WASHINGTON           ,8
+2020,2,191,WASHINGTON           ,20
+2020,3,191,WASHINGTON           ,12
+2020,4,191,WASHINGTON           ,14
+2020,5,191,WASHINGTON           ,14
+2020,6,191,WASHINGTON           ,18
+2020,7,191,WASHINGTON           ,17
+2020,8,191,WASHINGTON           ,13
+2020,9,191,WASHINGTON           ,10
+2020,10,191,WASHINGTON           ,20
+2020,11,191,WASHINGTON           ,6
+2020,12,191,WASHINGTON           ,13
+2020,13,191,WASHINGTON           ,12
+2020,14,191,WASHINGTON           ,14
+2020,15,191,WASHINGTON           ,16
+2020,16,191,WASHINGTON           ,8
+2020,17,191,WASHINGTON           ,12
+2020,18,191,WASHINGTON           ,14
+2020,19,191,WASHINGTON           ,10
+2020,20,191,WASHINGTON           ,13
+2020,21,191,WASHINGTON           ,11
+2020,22,191,WASHINGTON           ,12
+2020,23,191,WASHINGTON           ,10
+2020,24,191,WASHINGTON           ,9
+2020,25,191,WASHINGTON           ,3
+2020,1,820,WAYNESBORO                  ,6
+2020,2,820,WAYNESBORO                  ,6
+2020,3,820,WAYNESBORO                  ,2
+2020,4,820,WAYNESBORO                  ,3
+2020,5,820,WAYNESBORO                  ,5
+2020,6,820,WAYNESBORO                  ,5
+2020,7,820,WAYNESBORO                  ,5
+2020,8,820,WAYNESBORO                  ,2
+2020,9,820,WAYNESBORO                  ,4
+2020,10,820,WAYNESBORO                  ,0
+2020,11,820,WAYNESBORO                  ,6
+2020,12,820,WAYNESBORO                  ,5
+2020,13,820,WAYNESBORO                  ,5
+2020,14,820,WAYNESBORO                  ,5
+2020,15,820,WAYNESBORO                  ,2
+2020,16,820,WAYNESBORO                  ,6
+2020,17,820,WAYNESBORO                  ,0
+2020,18,820,WAYNESBORO                  ,2
+2020,19,820,WAYNESBORO                  ,6
+2020,20,820,WAYNESBORO                  ,0
+2020,21,820,WAYNESBORO                  ,1
+2020,22,820,WAYNESBORO                  ,3
+2020,23,820,WAYNESBORO                  ,0
+2020,24,820,WAYNESBORO                  ,0
+2020,25,820,WAYNESBORO                  ,3
+2020,1,193,WESTMORELAND         ,2
+2020,2,193,WESTMORELAND         ,1
+2020,4,193,WESTMORELAND         ,4
+2020,5,193,WESTMORELAND         ,2
+2020,6,193,WESTMORELAND         ,0
+2020,7,193,WESTMORELAND         ,0
+2020,8,193,WESTMORELAND         ,1
+2020,9,193,WESTMORELAND         ,3
+2020,10,193,WESTMORELAND         ,1
+2020,11,193,WESTMORELAND         ,0
+2020,12,193,WESTMORELAND         ,3
+2020,13,193,WESTMORELAND         ,0
+2020,14,193,WESTMORELAND         ,5
+2020,15,193,WESTMORELAND         ,4
+2020,16,193,WESTMORELAND         ,3
+2020,17,193,WESTMORELAND         ,4
+2020,18,193,WESTMORELAND         ,1
+2020,19,193,WESTMORELAND         ,1
+2020,20,193,WESTMORELAND         ,3
+2020,22,193,WESTMORELAND         ,3
+2020,23,193,WESTMORELAND         ,0
+2020,24,193,WESTMORELAND         ,3
+2020,25,193,WESTMORELAND         ,4
+2020,1,830,WILLIAMSBURG                ,0
+2020,2,830,WILLIAMSBURG                ,2
+2020,3,830,WILLIAMSBURG                ,3
+2020,4,830,WILLIAMSBURG                ,2
+2020,5,830,WILLIAMSBURG                ,2
+2020,7,830,WILLIAMSBURG                ,5
+2020,8,830,WILLIAMSBURG                ,5
+2020,9,830,WILLIAMSBURG                ,2
+2020,10,830,WILLIAMSBURG                ,4
+2020,11,830,WILLIAMSBURG                ,1
+2020,12,830,WILLIAMSBURG                ,0
+2020,14,830,WILLIAMSBURG                ,5
+2020,15,830,WILLIAMSBURG                ,3
+2020,16,830,WILLIAMSBURG                ,4
+2020,18,830,WILLIAMSBURG                ,1
+2020,19,830,WILLIAMSBURG                ,2
+2020,21,830,WILLIAMSBURG                ,3
+2020,22,830,WILLIAMSBURG                ,1
+2020,24,830,WILLIAMSBURG                ,2
+2020,1,840,WINCHESTER                  ,32
+2020,2,840,WINCHESTER                  ,33
+2020,3,840,WINCHESTER                  ,28
+2020,4,840,WINCHESTER                  ,16
+2020,5,840,WINCHESTER                  ,30
+2020,6,840,WINCHESTER                  ,25
+2020,7,840,WINCHESTER                  ,26
+2020,8,840,WINCHESTER                  ,26
+2020,9,840,WINCHESTER                  ,22
+2020,10,840,WINCHESTER                  ,25
+2020,11,840,WINCHESTER                  ,21
+2020,12,840,WINCHESTER                  ,31
+2020,13,840,WINCHESTER                  ,17
+2020,14,840,WINCHESTER                  ,21
+2020,15,840,WINCHESTER                  ,19
+2020,16,840,WINCHESTER                  ,13
+2020,17,840,WINCHESTER                  ,30
+2020,18,840,WINCHESTER                  ,19
+2020,19,840,WINCHESTER                  ,28
+2020,20,840,WINCHESTER                  ,20
+2020,21,840,WINCHESTER                  ,17
+2020,22,840,WINCHESTER                  ,13
+2020,23,840,WINCHESTER                  ,17
+2020,24,840,WINCHESTER                  ,22
+2020,25,840,WINCHESTER                  ,9
+2020,1,195,WISE                 ,2
+2020,2,195,WISE                 ,6
+2020,3,195,WISE                 ,9
+2020,4,195,WISE                 ,10
+2020,5,195,WISE                 ,8
+2020,6,195,WISE                 ,8
+2020,7,195,WISE                 ,7
+2020,8,195,WISE                 ,7
+2020,9,195,WISE                 ,11
+2020,10,195,WISE                 ,6
+2020,11,195,WISE                 ,0
+2020,12,195,WISE                 ,8
+2020,13,195,WISE                 ,7
+2020,14,195,WISE                 ,2
+2020,15,195,WISE                 ,9
+2020,16,195,WISE                 ,5
+2020,17,195,WISE                 ,7
+2020,18,195,WISE                 ,9
+2020,19,195,WISE                 ,0
+2020,20,195,WISE                 ,0
+2020,21,195,WISE                 ,1
+2020,22,195,WISE                 ,2
+2020,23,195,WISE                 ,5
+2020,24,195,WISE                 ,10
+2020,25,195,WISE                 ,3
+2020,1,197,WYTHE                ,3
+2020,2,197,WYTHE                ,10
+2020,3,197,WYTHE                ,10
+2020,4,197,WYTHE                ,7
+2020,5,197,WYTHE                ,7
+2020,6,197,WYTHE                ,6
+2020,7,197,WYTHE                ,5
+2020,8,197,WYTHE                ,9
+2020,9,197,WYTHE                ,8
+2020,10,197,WYTHE                ,7
+2020,11,197,WYTHE                ,6
+2020,12,197,WYTHE                ,10
+2020,13,197,WYTHE                ,11
+2020,14,197,WYTHE                ,3
+2020,15,197,WYTHE                ,5
+2020,16,197,WYTHE                ,4
+2020,17,197,WYTHE                ,3
+2020,18,197,WYTHE                ,8
+2020,19,197,WYTHE                ,5
+2020,20,197,WYTHE                ,8
+2020,21,197,WYTHE                ,6
+2020,22,197,WYTHE                ,9
+2020,23,197,WYTHE                ,6
+2020,24,197,WYTHE                ,7
+2020,1,199,YORK                 ,10
+2020,2,199,YORK                 ,2
+2020,3,199,YORK                 ,9
+2020,4,199,YORK                 ,9
+2020,5,199,YORK                 ,11
+2020,6,199,YORK                 ,17
+2020,7,199,YORK                 ,14
+2020,8,199,YORK                 ,5
+2020,9,199,YORK                 ,10
+2020,10,199,YORK                 ,10
+2020,11,199,YORK                 ,16
+2020,12,199,YORK                 ,12
+2020,13,199,YORK                 ,13
+2020,14,199,YORK                 ,5
+2020,15,199,YORK                 ,13
+2020,16,199,YORK                 ,6
+2020,17,199,YORK                 ,7
+2020,18,199,YORK                 ,9
+2020,19,199,YORK                 ,14
+2020,20,199,YORK                 ,10
+2020,21,199,YORK                 ,8
+2020,22,199,YORK                 ,3
+2020,23,199,YORK                 ,8
+2020,24,199,YORK                 ,9
+2020,25,199,YORK                 ,3
