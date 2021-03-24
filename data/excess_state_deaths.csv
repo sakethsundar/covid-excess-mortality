@@ -1,0 +1,1243 @@
+Week Ending Date,State,Excess Deaths
+10/3/20,Alabama,84
+10/10/20,Alabama,190
+10/17/20,Alabama,184
+10/24/20,Alabama,137
+10/31/20,Alabama,141
+11/7/20,Alabama,237
+11/14/20,Alabama,232
+11/21/20,Alabama,209
+11/28/20,Alabama,247
+12/5/20,Alabama,250
+12/12/20,Alabama,481
+12/19/20,Alabama,446
+12/26/20,Alabama,482
+1/2/21,Alabama,653
+1/9/21,Alabama,625
+1/16/21,Alabama,642
+1/23/21,Alabama,599
+1/30/21,Alabama,463
+2/6/21,Alabama,336
+2/13/21,Alabama,159
+2/20/21,Alabama,58
+2/27/21,Alabama,0
+3/6/21,Alabama,0
+10/3/20,Alaska,0
+10/10/20,Alaska,14
+10/17/20,Alaska,5
+10/24/20,Alaska,8
+10/31/20,Alaska,11
+11/7/20,Alaska,15
+11/14/20,Alaska,18
+11/21/20,Alaska,27
+11/28/20,Alaska,13
+12/5/20,Alaska,15
+12/12/20,Alaska,32
+12/19/20,Alaska,1
+12/26/20,Alaska,6
+1/2/21,Alaska,1
+1/9/21,Alaska,2
+1/16/21,Alaska,19
+1/23/21,Alaska,0
+1/30/21,Alaska,0
+2/6/21,Alaska,0
+2/13/21,Alaska,0
+2/20/21,Alaska,0
+2/27/21,Alaska,0
+3/6/21,Alaska,0
+10/3/20,Arizona,50
+10/10/20,Arizona,80
+10/17/20,Arizona,88
+10/24/20,Arizona,114
+10/31/20,Arizona,137
+11/7/20,Arizona,212
+11/14/20,Arizona,55
+11/21/20,Arizona,297
+11/28/20,Arizona,295
+12/5/20,Arizona,436
+12/12/20,Arizona,743
+12/19/20,Arizona,792
+12/26/20,Arizona,877
+1/2/21,Arizona,922
+1/9/21,Arizona,1030
+1/16/21,Arizona,1070
+1/23/21,Arizona,1015
+1/30/21,Arizona,675
+2/6/21,Arizona,591
+2/13/21,Arizona,341
+2/20/21,Arizona,148
+2/27/21,Arizona,75
+3/6/21,Arizona,5
+10/3/20,Arkansas,181
+10/10/20,Arkansas,195
+10/17/20,Arkansas,168
+10/24/20,Arkansas,177
+10/31/20,Arkansas,163
+11/7/20,Arkansas,204
+11/14/20,Arkansas,245
+11/21/20,Arkansas,232
+11/28/20,Arkansas,175
+12/5/20,Arkansas,264
+12/12/20,Arkansas,225
+12/19/20,Arkansas,229
+12/26/20,Arkansas,206
+1/2/21,Arkansas,241
+1/9/21,Arkansas,236
+1/16/21,Arkansas,238
+1/23/21,Arkansas,278
+1/30/21,Arkansas,165
+2/6/21,Arkansas,134
+2/13/21,Arkansas,64
+2/20/21,Arkansas,24
+2/27/21,Arkansas,18
+3/6/21,Arkansas,0
+10/3/20,California,699
+10/10/20,California,576
+10/17/20,California,577
+10/24/20,California,315
+10/31/20,California,460
+11/7/20,California,777
+11/14/20,California,885
+11/21/20,California,1173
+11/28/20,California,1115
+12/5/20,California,1806
+12/12/20,California,2656
+12/19/20,California,3582
+12/26/20,California,4724
+1/2/21,California,5238
+1/9/21,California,5586
+1/16/21,California,5057
+1/23/21,California,3730
+1/30/21,California,2874
+2/6/21,California,1957
+2/13/21,California,924
+2/20/21,California,50
+2/27/21,California,0
+3/6/21,California,0
+10/3/20,Colorado,14
+10/10/20,Colorado,22
+10/17/20,Colorado,77
+10/24/20,Colorado,82
+10/31/20,Colorado,117
+11/7/20,Colorado,222
+11/14/20,Colorado,247
+11/21/20,Colorado,343
+11/28/20,Colorado,413
+12/5/20,Colorado,451
+12/12/20,Colorado,456
+12/19/20,Colorado,386
+12/26/20,Colorado,261
+1/2/21,Colorado,238
+1/9/21,Colorado,211
+1/16/21,Colorado,131
+1/23/21,Colorado,104
+1/30/21,Colorado,53
+2/6/21,Colorado,50
+2/13/21,Colorado,0
+2/20/21,Colorado,20
+2/27/21,Colorado,4
+3/6/21,Colorado,0
+10/3/20,Connecticut,26
+10/10/20,Connecticut,30
+10/17/20,Connecticut,14
+10/24/20,Connecticut,68
+10/31/20,Connecticut,20
+11/7/20,Connecticut,106
+11/14/20,Connecticut,80
+11/21/20,Connecticut,190
+11/28/20,Connecticut,223
+12/5/20,Connecticut,315
+12/12/20,Connecticut,318
+12/19/20,Connecticut,354
+12/26/20,Connecticut,393
+1/2/21,Connecticut,380
+1/9/21,Connecticut,259
+1/16/21,Connecticut,240
+1/23/21,Connecticut,193
+1/30/21,Connecticut,148
+2/6/21,Connecticut,0
+2/13/21,Connecticut,0
+2/20/21,Connecticut,0
+2/27/21,Connecticut,0
+3/6/21,Connecticut,0
+10/3/20,Delaware,21
+10/10/20,Delaware,19
+10/17/20,Delaware,21
+10/24/20,Delaware,29
+10/31/20,Delaware,12
+11/7/20,Delaware,9
+11/14/20,Delaware,0
+11/21/20,Delaware,34
+11/28/20,Delaware,7
+12/5/20,Delaware,31
+12/12/20,Delaware,51
+12/19/20,Delaware,47
+12/26/20,Delaware,68
+1/2/21,Delaware,66
+1/9/21,Delaware,49
+1/16/21,Delaware,41
+1/23/21,Delaware,54
+1/30/21,Delaware,18
+2/6/21,Delaware,10
+2/13/21,Delaware,0
+2/20/21,Delaware,0
+2/27/21,Delaware,0
+3/6/21,Delaware,0
+10/3/20,District of Columbia,26
+10/10/20,District of Columbia,29
+10/17/20,District of Columbia,6
+10/24/20,District of Columbia,1
+10/31/20,District of Columbia,16
+11/7/20,District of Columbia,26
+11/14/20,District of Columbia,22
+11/21/20,District of Columbia,24
+11/28/20,District of Columbia,7
+12/5/20,District of Columbia,37
+12/12/20,District of Columbia,56
+12/19/20,District of Columbia,23
+12/26/20,District of Columbia,40
+1/2/21,District of Columbia,55
+1/9/21,District of Columbia,46
+1/16/21,District of Columbia,35
+1/23/21,District of Columbia,27
+1/30/21,District of Columbia,39
+2/6/21,District of Columbia,22
+2/13/21,District of Columbia,13
+2/20/21,District of Columbia,20
+2/27/21,District of Columbia,0
+3/6/21,District of Columbia,0
+10/3/20,Florida,363
+10/10/20,Florida,526
+10/17/20,Florida,403
+10/24/20,Florida,331
+10/31/20,Florida,240
+11/7/20,Florida,253
+11/14/20,Florida,412
+11/21/20,Florida,428
+11/28/20,Florida,479
+12/5/20,Florida,739
+12/12/20,Florida,869
+12/19/20,Florida,687
+12/26/20,Florida,862
+1/2/21,Florida,1368
+1/9/21,Florida,1120
+1/16/21,Florida,1543
+1/23/21,Florida,1164
+1/30/21,Florida,952
+2/6/21,Florida,1031
+2/13/21,Florida,896
+2/20/21,Florida,614
+2/27/21,Florida,264
+3/6/21,Florida,0
+10/3/20,Georgia,293
+10/10/20,Georgia,242
+10/17/20,Georgia,252
+10/24/20,Georgia,285
+10/31/20,Georgia,236
+11/7/20,Georgia,296
+11/14/20,Georgia,323
+11/21/20,Georgia,218
+11/28/20,Georgia,277
+12/5/20,Georgia,349
+12/12/20,Georgia,391
+12/19/20,Georgia,554
+12/26/20,Georgia,480
+1/2/21,Georgia,793
+1/9/21,Georgia,922
+1/16/21,Georgia,1122
+1/23/21,Georgia,965
+1/30/21,Georgia,812
+2/6/21,Georgia,682
+2/13/21,Georgia,281
+2/20/21,Georgia,73
+2/27/21,Georgia,0
+3/6/21,Georgia,0
+10/3/20,Hawaii,0
+10/10/20,Hawaii,9
+10/17/20,Hawaii,13
+10/24/20,Hawaii,11
+10/31/20,Hawaii,10
+11/7/20,Hawaii,7
+11/14/20,Hawaii,17
+11/21/20,Hawaii,0
+11/28/20,Hawaii,0
+12/5/20,Hawaii,4
+12/12/20,Hawaii,0
+12/19/20,Hawaii,2
+12/26/20,Hawaii,0
+1/2/21,Hawaii,0
+1/9/21,Hawaii,0
+1/16/21,Hawaii,1
+1/23/21,Hawaii,0
+1/30/21,Hawaii,0
+2/6/21,Hawaii,0
+2/13/21,Hawaii,9
+2/20/21,Hawaii,3
+2/27/21,Hawaii,5
+3/6/21,Hawaii,0
+10/3/20,Idaho,43
+10/10/20,Idaho,14
+10/17/20,Idaho,45
+10/24/20,Idaho,57
+10/31/20,Idaho,65
+11/7/20,Idaho,84
+11/14/20,Idaho,133
+11/21/20,Idaho,112
+11/28/20,Idaho,145
+12/5/20,Idaho,115
+12/12/20,Idaho,83
+12/19/20,Idaho,102
+12/26/20,Idaho,87
+1/2/21,Idaho,45
+1/9/21,Idaho,82
+1/16/21,Idaho,37
+1/23/21,Idaho,27
+1/30/21,Idaho,0
+2/6/21,Idaho,14
+2/13/21,Idaho,1
+2/20/21,Idaho,0
+2/27/21,Idaho,0
+3/6/21,Idaho,0
+10/3/20,Illinois,129
+10/10/20,Illinois,334
+10/17/20,Illinois,273
+10/24/20,Illinois,271
+10/31/20,Illinois,437
+11/7/20,Illinois,651
+11/14/20,Illinois,852
+11/21/20,Illinois,1128
+11/28/20,Illinois,1066
+12/5/20,Illinois,1168
+12/12/20,Illinois,1218
+12/19/20,Illinois,982
+12/26/20,Illinois,872
+1/2/21,Illinois,849
+1/9/21,Illinois,558
+1/16/21,Illinois,464
+1/23/21,Illinois,344
+1/30/21,Illinois,299
+2/6/21,Illinois,256
+2/13/21,Illinois,188
+2/20/21,Illinois,166
+2/27/21,Illinois,42
+3/6/21,Illinois,0
+10/3/20,Indiana,185
+10/10/20,Indiana,206
+10/17/20,Indiana,273
+10/24/20,Indiana,260
+10/31/20,Indiana,329
+11/7/20,Indiana,374
+11/14/20,Indiana,431
+11/21/20,Indiana,638
+11/28/20,Indiana,690
+12/5/20,Indiana,594
+12/12/20,Indiana,721
+12/19/20,Indiana,577
+12/26/20,Indiana,383
+1/2/21,Indiana,324
+1/9/21,Indiana,338
+1/16/21,Indiana,241
+1/23/21,Indiana,106
+1/30/21,Indiana,0
+2/6/21,Indiana,0
+2/13/21,Indiana,0
+2/20/21,Indiana,0
+2/27/21,Indiana,0
+3/6/21,Indiana,0
+10/3/20,Iowa,103
+10/10/20,Iowa,145
+10/17/20,Iowa,96
+10/24/20,Iowa,164
+10/31/20,Iowa,163
+11/7/20,Iowa,268
+11/14/20,Iowa,297
+11/21/20,Iowa,387
+11/28/20,Iowa,368
+12/5/20,Iowa,390
+12/12/20,Iowa,327
+12/19/20,Iowa,230
+12/26/20,Iowa,191
+1/2/21,Iowa,79
+1/9/21,Iowa,124
+1/16/21,Iowa,72
+1/23/21,Iowa,69
+1/30/21,Iowa,0
+2/6/21,Iowa,0
+2/13/21,Iowa,0
+2/20/21,Iowa,0
+2/27/21,Iowa,0
+3/6/21,Iowa,0
+10/3/20,Kansas,81
+10/10/20,Kansas,139
+10/17/20,Kansas,133
+10/24/20,Kansas,155
+10/31/20,Kansas,65
+11/7/20,Kansas,155
+11/14/20,Kansas,193
+11/21/20,Kansas,249
+11/28/20,Kansas,273
+12/5/20,Kansas,321
+12/12/20,Kansas,326
+12/19/20,Kansas,365
+12/26/20,Kansas,271
+1/2/21,Kansas,224
+1/9/21,Kansas,194
+1/16/21,Kansas,177
+1/23/21,Kansas,72
+1/30/21,Kansas,93
+2/6/21,Kansas,72
+2/13/21,Kansas,0
+2/20/21,Kansas,0
+2/27/21,Kansas,0
+3/6/21,Kansas,0
+10/3/20,Kentucky,83
+10/10/20,Kentucky,145
+10/17/20,Kentucky,198
+10/24/20,Kentucky,242
+10/31/20,Kentucky,175
+11/7/20,Kentucky,226
+11/14/20,Kentucky,225
+11/21/20,Kentucky,322
+11/28/20,Kentucky,349
+12/5/20,Kentucky,351
+12/12/20,Kentucky,399
+12/19/20,Kentucky,356
+12/26/20,Kentucky,414
+1/2/21,Kentucky,338
+1/9/21,Kentucky,210
+1/16/21,Kentucky,293
+1/23/21,Kentucky,235
+1/30/21,Kentucky,169
+2/6/21,Kentucky,31
+2/13/21,Kentucky,7
+2/20/21,Kentucky,0
+2/27/21,Kentucky,0
+3/6/21,Kentucky,0
+10/3/20,Louisiana,146
+10/10/20,Louisiana,159
+10/17/20,Louisiana,100
+10/24/20,Louisiana,104
+10/31/20,Louisiana,39
+11/7/20,Louisiana,122
+11/14/20,Louisiana,128
+11/21/20,Louisiana,120
+11/28/20,Louisiana,123
+12/5/20,Louisiana,129
+12/12/20,Louisiana,232
+12/19/20,Louisiana,210
+12/26/20,Louisiana,259
+1/2/21,Louisiana,250
+1/9/21,Louisiana,354
+1/16/21,Louisiana,396
+1/23/21,Louisiana,292
+1/30/21,Louisiana,182
+2/6/21,Louisiana,102
+2/13/21,Louisiana,7
+2/20/21,Louisiana,0
+2/27/21,Louisiana,0
+3/6/21,Louisiana,0
+10/3/20,Maine,0
+10/10/20,Maine,8
+10/17/20,Maine,0
+10/24/20,Maine,0
+10/31/20,Maine,0
+11/7/20,Maine,34
+11/14/20,Maine,21
+11/21/20,Maine,5
+11/28/20,Maine,38
+12/5/20,Maine,27
+12/12/20,Maine,36
+12/19/20,Maine,12
+12/26/20,Maine,32
+1/2/21,Maine,34
+1/9/21,Maine,26
+1/16/21,Maine,46
+1/23/21,Maine,17
+1/30/21,Maine,38
+2/6/21,Maine,0
+2/13/21,Maine,12
+2/20/21,Maine,0
+2/27/21,Maine,0
+3/6/21,Maine,5
+10/3/20,Maryland,110
+10/10/20,Maryland,112
+10/17/20,Maryland,58
+10/24/20,Maryland,113
+10/31/20,Maryland,72
+11/7/20,Maryland,79
+11/14/20,Maryland,94
+11/21/20,Maryland,208
+11/28/20,Maryland,158
+12/5/20,Maryland,235
+12/12/20,Maryland,330
+12/19/20,Maryland,370
+12/26/20,Maryland,266
+1/2/21,Maryland,395
+1/9/21,Maryland,271
+1/16/21,Maryland,317
+1/23/21,Maryland,254
+1/30/21,Maryland,216
+2/6/21,Maryland,156
+2/13/21,Maryland,156
+2/20/21,Maryland,32
+2/27/21,Maryland,36
+3/6/21,Maryland,0
+10/3/20,Massachusetts,16
+10/10/20,Massachusetts,11
+10/17/20,Massachusetts,20
+10/24/20,Massachusetts,61
+10/31/20,Massachusetts,0
+11/7/20,Massachusetts,53
+11/14/20,Massachusetts,71
+11/21/20,Massachusetts,44
+11/28/20,Massachusetts,94
+12/5/20,Massachusetts,167
+12/12/20,Massachusetts,151
+12/19/20,Massachusetts,208
+12/26/20,Massachusetts,326
+1/2/21,Massachusetts,257
+1/9/21,Massachusetts,268
+1/16/21,Massachusetts,254
+1/23/21,Massachusetts,196
+1/30/21,Massachusetts,47
+2/6/21,Massachusetts,142
+2/13/21,Massachusetts,62
+2/20/21,Massachusetts,35
+2/27/21,Massachusetts,0
+3/6/21,Massachusetts,0
+10/3/20,Michigan,213
+10/10/20,Michigan,306
+10/17/20,Michigan,175
+10/24/20,Michigan,337
+10/31/20,Michigan,302
+11/7/20,Michigan,463
+11/14/20,Michigan,551
+11/21/20,Michigan,741
+11/28/20,Michigan,788
+12/5/20,Michigan,922
+12/12/20,Michigan,1083
+12/19/20,Michigan,871
+12/26/20,Michigan,724
+1/2/21,Michigan,608
+1/9/21,Michigan,394
+1/16/21,Michigan,434
+1/23/21,Michigan,396
+1/30/21,Michigan,236
+2/6/21,Michigan,375
+2/13/21,Michigan,94
+2/20/21,Michigan,0
+2/27/21,Michigan,0
+3/6/21,Michigan,0
+10/3/20,Minnesota,9
+10/10/20,Minnesota,104
+10/17/20,Minnesota,36
+10/24/20,Minnesota,100
+10/31/20,Minnesota,145
+11/7/20,Minnesota,211
+11/14/20,Minnesota,265
+11/21/20,Minnesota,396
+11/28/20,Minnesota,479
+12/5/20,Minnesota,423
+12/12/20,Minnesota,455
+12/19/20,Minnesota,322
+12/26/20,Minnesota,239
+1/2/21,Minnesota,202
+1/9/21,Minnesota,143
+1/16/21,Minnesota,64
+1/23/21,Minnesota,0
+1/30/21,Minnesota,0
+2/6/21,Minnesota,6
+2/13/21,Minnesota,0
+2/20/21,Minnesota,0
+2/27/21,Minnesota,0
+3/6/21,Minnesota,0
+10/3/20,Mississippi,100
+10/10/20,Mississippi,131
+10/17/20,Mississippi,48
+10/24/20,Mississippi,88
+10/31/20,Mississippi,68
+11/7/20,Mississippi,95
+11/14/20,Mississippi,124
+11/21/20,Mississippi,127
+11/28/20,Mississippi,141
+12/5/20,Mississippi,167
+12/12/20,Mississippi,275
+12/19/20,Mississippi,232
+12/26/20,Mississippi,288
+1/2/21,Mississippi,362
+1/9/21,Mississippi,351
+1/16/21,Mississippi,335
+1/23/21,Mississippi,302
+1/30/21,Mississippi,192
+2/6/21,Mississippi,126
+2/13/21,Mississippi,34
+2/20/21,Mississippi,46
+2/27/21,Mississippi,65
+3/6/21,Mississippi,0
+10/3/20,Missouri,313
+10/10/20,Missouri,314
+10/17/20,Missouri,281
+10/24/20,Missouri,334
+10/31/20,Missouri,356
+11/7/20,Missouri,524
+11/14/20,Missouri,587
+11/21/20,Missouri,603
+11/28/20,Missouri,646
+12/5/20,Missouri,679
+12/12/20,Missouri,715
+12/19/20,Missouri,567
+12/26/20,Missouri,481
+1/2/21,Missouri,471
+1/9/21,Missouri,361
+1/16/21,Missouri,357
+1/23/21,Missouri,301
+1/30/21,Missouri,198
+2/6/21,Missouri,47
+2/13/21,Missouri,0
+2/20/21,Missouri,0
+2/27/21,Missouri,0
+3/6/21,Missouri,0
+10/3/20,Montana,44
+10/10/20,Montana,83
+10/17/20,Montana,64
+10/24/20,Montana,91
+10/31/20,Montana,116
+11/7/20,Montana,98
+11/14/20,Montana,122
+11/21/20,Montana,131
+11/28/20,Montana,106
+12/5/20,Montana,68
+12/12/20,Montana,101
+12/19/20,Montana,63
+12/26/20,Montana,98
+1/2/21,Montana,55
+1/9/21,Montana,31
+1/16/21,Montana,33
+1/23/21,Montana,20
+1/30/21,Montana,0
+2/6/21,Montana,0
+2/13/21,Montana,0
+2/20/21,Montana,0
+2/27/21,Montana,0
+3/6/21,Montana,0
+10/3/20,Nebraska,49
+10/10/20,Nebraska,80
+10/17/20,Nebraska,74
+10/24/20,Nebraska,92
+10/31/20,Nebraska,107
+11/7/20,Nebraska,165
+11/14/20,Nebraska,219
+11/21/20,Nebraska,241
+11/28/20,Nebraska,231
+12/5/20,Nebraska,176
+12/12/20,Nebraska,155
+12/19/20,Nebraska,107
+12/26/20,Nebraska,54
+1/2/21,Nebraska,54
+1/9/21,Nebraska,55
+1/16/21,Nebraska,8
+1/23/21,Nebraska,20
+1/30/21,Nebraska,9
+2/6/21,Nebraska,0
+2/13/21,Nebraska,0
+2/20/21,Nebraska,0
+2/27/21,Nebraska,0
+3/6/21,Nebraska,0
+10/3/20,Nevada,75
+10/10/20,Nevada,71
+10/17/20,Nevada,33
+10/24/20,Nevada,42
+10/31/20,Nevada,116
+11/7/20,Nevada,62
+11/14/20,Nevada,123
+11/21/20,Nevada,153
+11/28/20,Nevada,230
+12/5/20,Nevada,243
+12/12/20,Nevada,376
+12/19/20,Nevada,296
+12/26/20,Nevada,305
+1/2/21,Nevada,271
+1/9/21,Nevada,286
+1/16/21,Nevada,241
+1/23/21,Nevada,219
+1/30/21,Nevada,195
+2/6/21,Nevada,130
+2/13/21,Nevada,95
+2/20/21,Nevada,18
+2/27/21,Nevada,28
+3/6/21,Nevada,0
+10/3/20,New Hampshire,0
+10/10/20,New Hampshire,10
+10/17/20,New Hampshire,8
+10/24/20,New Hampshire,0
+10/31/20,New Hampshire,12
+11/7/20,New Hampshire,20
+11/14/20,New Hampshire,43
+11/21/20,New Hampshire,15
+11/28/20,New Hampshire,39
+12/5/20,New Hampshire,66
+12/12/20,New Hampshire,58
+12/19/20,New Hampshire,32
+12/26/20,New Hampshire,103
+1/2/21,New Hampshire,43
+1/9/21,New Hampshire,59
+1/16/21,New Hampshire,93
+1/23/21,New Hampshire,29
+1/30/21,New Hampshire,9
+2/6/21,New Hampshire,20
+2/13/21,New Hampshire,0
+2/20/21,New Hampshire,5
+2/27/21,New Hampshire,0
+3/6/21,New Hampshire,0
+10/3/20,New Jersey,2
+10/10/20,New Jersey,28
+10/17/20,New Jersey,0
+10/24/20,New Jersey,70
+10/31/20,New Jersey,34
+11/7/20,New Jersey,134
+11/14/20,New Jersey,181
+11/21/20,New Jersey,219
+11/28/20,New Jersey,220
+12/5/20,New Jersey,417
+12/12/20,New Jersey,528
+12/19/20,New Jersey,580
+12/26/20,New Jersey,534
+1/2/21,New Jersey,660
+1/9/21,New Jersey,472
+1/16/21,New Jersey,552
+1/23/21,New Jersey,379
+1/30/21,New Jersey,401
+2/6/21,New Jersey,425
+2/13/21,New Jersey,235
+2/20/21,New Jersey,169
+2/27/21,New Jersey,134
+3/6/21,New Jersey,27
+10/3/20,New Mexico,19
+10/10/20,New Mexico,22
+10/17/20,New Mexico,27
+10/24/20,New Mexico,53
+10/31/20,New Mexico,75
+11/7/20,New Mexico,142
+11/14/20,New Mexico,205
+11/21/20,New Mexico,213
+11/28/20,New Mexico,209
+12/5/20,New Mexico,274
+12/12/20,New Mexico,286
+12/19/20,New Mexico,250
+12/26/20,New Mexico,207
+1/2/21,New Mexico,168
+1/9/21,New Mexico,132
+1/16/21,New Mexico,88
+1/23/21,New Mexico,94
+1/30/21,New Mexico,59
+2/6/21,New Mexico,10
+2/13/21,New Mexico,5
+2/20/21,New Mexico,0
+2/27/21,New Mexico,0
+3/6/21,New Mexico,0
+10/3/20,New York,91
+10/10/20,New York,170
+10/17/20,New York,30
+10/24/20,New York,0
+10/31/20,New York,44
+11/7/20,New York,183
+11/14/20,New York,76
+11/21/20,New York,185
+11/28/20,New York,285
+12/5/20,New York,378
+12/12/20,New York,584
+12/19/20,New York,694
+12/26/20,New York,828
+1/2/21,New York,775
+1/9/21,New York,861
+1/16/21,New York,1000
+1/23/21,New York,791
+1/30/21,New York,693
+2/6/21,New York,667
+2/13/21,New York,357
+2/20/21,New York,278
+2/27/21,New York,178
+3/6/21,New York,36
+10/3/20,New York City,0
+10/10/20,New York City,0
+10/17/20,New York City,4
+10/24/20,New York City,0
+10/31/20,New York City,9
+11/7/20,New York City,59
+11/14/20,New York City,20
+11/21/20,New York City,21
+11/28/20,New York City,8
+12/5/20,New York City,59
+12/12/20,New York City,119
+12/19/20,New York City,207
+12/26/20,New York City,288
+1/2/21,New York City,244
+1/9/21,New York City,327
+1/16/21,New York City,289
+1/23/21,New York City,396
+1/30/21,New York City,420
+2/6/21,New York City,390
+2/13/21,New York City,489
+2/20/21,New York City,395
+2/27/21,New York City,381
+3/6/21,New York City,264
+10/3/20,North Carolina,55
+10/10/20,North Carolina,35
+10/17/20,North Carolina,0
+10/24/20,North Carolina,0
+10/31/20,North Carolina,0
+11/7/20,North Carolina,0
+11/14/20,North Carolina,0
+11/21/20,North Carolina,0
+11/28/20,North Carolina,0
+12/5/20,North Carolina,0
+12/12/20,North Carolina,0
+12/19/20,North Carolina,0
+12/26/20,North Carolina,0
+1/2/21,North Carolina,0
+1/9/21,North Carolina,0
+1/16/21,North Carolina,0
+1/23/21,North Carolina,0
+1/30/21,North Carolina,0
+2/6/21,North Carolina,0
+2/13/21,North Carolina,0
+2/20/21,North Carolina,0
+2/27/21,North Carolina,0
+3/6/21,North Carolina,0
+10/3/20,North Dakota,48
+10/10/20,North Dakota,90
+10/17/20,North Dakota,68
+10/24/20,North Dakota,36
+10/31/20,North Dakota,91
+11/7/20,North Dakota,112
+11/14/20,North Dakota,97
+11/21/20,North Dakota,119
+11/28/20,North Dakota,98
+12/5/20,North Dakota,130
+12/12/20,North Dakota,78
+12/19/20,North Dakota,46
+12/26/20,North Dakota,46
+1/2/21,North Dakota,7
+1/9/21,North Dakota,3
+1/16/21,North Dakota,1
+1/23/21,North Dakota,0
+1/30/21,North Dakota,0
+2/6/21,North Dakota,4
+2/13/21,North Dakota,0
+2/20/21,North Dakota,0
+2/27/21,North Dakota,7
+3/6/21,North Dakota,1
+10/3/20,Ohio,281
+10/10/20,Ohio,350
+10/17/20,Ohio,322
+10/24/20,Ohio,341
+10/31/20,Ohio,398
+11/7/20,Ohio,642
+11/14/20,Ohio,645
+11/21/20,Ohio,803
+11/28/20,Ohio,1111
+12/5/20,Ohio,1415
+12/12/20,Ohio,1719
+12/19/20,Ohio,1540
+12/26/20,Ohio,1346
+1/2/21,Ohio,1285
+1/9/21,Ohio,1004
+1/16/21,Ohio,871
+1/23/21,Ohio,590
+1/30/21,Ohio,441
+2/6/21,Ohio,460
+2/13/21,Ohio,316
+2/20/21,Ohio,229
+2/27/21,Ohio,125
+3/6/21,Ohio,0
+10/3/20,Oklahoma,93
+10/10/20,Oklahoma,218
+10/17/20,Oklahoma,108
+10/24/20,Oklahoma,193
+10/31/20,Oklahoma,246
+11/7/20,Oklahoma,251
+11/14/20,Oklahoma,282
+11/21/20,Oklahoma,336
+11/28/20,Oklahoma,334
+12/5/20,Oklahoma,514
+12/12/20,Oklahoma,395
+12/19/20,Oklahoma,448
+12/26/20,Oklahoma,425
+1/2/21,Oklahoma,486
+1/9/21,Oklahoma,383
+1/16/21,Oklahoma,391
+1/23/21,Oklahoma,367
+1/30/21,Oklahoma,209
+2/6/21,Oklahoma,50
+2/13/21,Oklahoma,2
+2/20/21,Oklahoma,0
+2/27/21,Oklahoma,0
+3/6/21,Oklahoma,0
+10/3/20,Oregon,30
+10/10/20,Oregon,49
+10/17/20,Oregon,20
+10/24/20,Oregon,53
+10/31/20,Oregon,70
+11/7/20,Oregon,117
+11/14/20,Oregon,115
+11/21/20,Oregon,100
+11/28/20,Oregon,156
+12/5/20,Oregon,207
+12/12/20,Oregon,202
+12/19/20,Oregon,214
+12/26/20,Oregon,92
+1/2/21,Oregon,84
+1/9/21,Oregon,47
+1/16/21,Oregon,50
+1/23/21,Oregon,19
+1/30/21,Oregon,19
+2/6/21,Oregon,19
+2/13/21,Oregon,0
+2/20/21,Oregon,0
+2/27/21,Oregon,0
+3/6/21,Oregon,0
+10/3/20,Pennsylvania,226
+10/10/20,Pennsylvania,268
+10/17/20,Pennsylvania,138
+10/24/20,Pennsylvania,236
+10/31/20,Pennsylvania,223
+11/7/20,Pennsylvania,419
+11/14/20,Pennsylvania,542
+11/21/20,Pennsylvania,737
+11/28/20,Pennsylvania,1006
+12/5/20,Pennsylvania,1204
+12/12/20,Pennsylvania,1656
+12/19/20,Pennsylvania,1716
+12/26/20,Pennsylvania,1690
+1/2/21,Pennsylvania,1596
+1/9/21,Pennsylvania,1112
+1/16/21,Pennsylvania,960
+1/23/21,Pennsylvania,899
+1/30/21,Pennsylvania,637
+2/6/21,Pennsylvania,405
+2/13/21,Pennsylvania,283
+2/20/21,Pennsylvania,163
+2/27/21,Pennsylvania,0
+3/6/21,Pennsylvania,0
+10/3/20,Puerto Rico,11
+10/10/20,Puerto Rico,35
+10/17/20,Puerto Rico,22
+10/24/20,Puerto Rico,19
+10/31/20,Puerto Rico,27
+11/7/20,Puerto Rico,30
+11/14/20,Puerto Rico,30
+11/21/20,Puerto Rico,79
+11/28/20,Puerto Rico,67
+12/5/20,Puerto Rico,54
+12/12/20,Puerto Rico,42
+12/19/20,Puerto Rico,45
+12/26/20,Puerto Rico,12
+1/2/21,Puerto Rico,0
+1/9/21,Puerto Rico,0
+1/16/21,Puerto Rico,0
+1/23/21,Puerto Rico,0
+1/30/21,Puerto Rico,0
+2/6/21,Puerto Rico,0
+2/13/21,Puerto Rico,0
+2/20/21,Puerto Rico,0
+2/27/21,Puerto Rico,0
+3/6/21,Puerto Rico,0
+10/3/20,Rhode Island,16
+10/10/20,Rhode Island,11
+10/17/20,Rhode Island,10
+10/24/20,Rhode Island,3
+10/31/20,Rhode Island,5
+11/7/20,Rhode Island,19
+11/14/20,Rhode Island,28
+11/21/20,Rhode Island,15
+11/28/20,Rhode Island,53
+12/5/20,Rhode Island,71
+12/12/20,Rhode Island,102
+12/19/20,Rhode Island,103
+12/26/20,Rhode Island,70
+1/2/21,Rhode Island,48
+1/9/21,Rhode Island,61
+1/16/21,Rhode Island,55
+1/23/21,Rhode Island,70
+1/30/21,Rhode Island,22
+2/6/21,Rhode Island,28
+2/13/21,Rhode Island,6
+2/20/21,Rhode Island,0
+2/27/21,Rhode Island,0
+3/6/21,Rhode Island,0
+10/3/20,South Carolina,162
+10/10/20,South Carolina,158
+10/17/20,South Carolina,85
+10/24/20,South Carolina,166
+10/31/20,South Carolina,224
+11/7/20,South Carolina,185
+11/14/20,South Carolina,119
+11/21/20,South Carolina,168
+11/28/20,South Carolina,182
+12/5/20,South Carolina,251
+12/12/20,South Carolina,228
+12/19/20,South Carolina,297
+12/26/20,South Carolina,332
+1/2/21,South Carolina,414
+1/9/21,South Carolina,352
+1/16/21,South Carolina,509
+1/23/21,South Carolina,573
+1/30/21,South Carolina,455
+2/6/21,South Carolina,378
+2/13/21,South Carolina,278
+2/20/21,South Carolina,144
+2/27/21,South Carolina,115
+3/6/21,South Carolina,20
+10/3/20,South Dakota,40
+10/10/20,South Dakota,49
+10/17/20,South Dakota,30
+10/24/20,South Dakota,70
+10/31/20,South Dakota,71
+11/7/20,South Dakota,190
+11/14/20,South Dakota,174
+11/21/20,South Dakota,166
+11/28/20,South Dakota,168
+12/5/20,South Dakota,131
+12/12/20,South Dakota,110
+12/19/20,South Dakota,62
+12/26/20,South Dakota,27
+1/2/21,South Dakota,32
+1/9/21,South Dakota,40
+1/16/21,South Dakota,8
+1/23/21,South Dakota,9
+1/30/21,South Dakota,13
+2/6/21,South Dakota,1
+2/13/21,South Dakota,0
+2/20/21,South Dakota,0
+2/27/21,South Dakota,0
+3/6/21,South Dakota,0
+10/3/20,Tennessee,288
+10/10/20,Tennessee,318
+10/17/20,Tennessee,319
+10/24/20,Tennessee,314
+10/31/20,Tennessee,372
+11/7/20,Tennessee,321
+11/14/20,Tennessee,433
+11/21/20,Tennessee,480
+11/28/20,Tennessee,370
+12/5/20,Tennessee,616
+12/12/20,Tennessee,606
+12/19/20,Tennessee,563
+12/26/20,Tennessee,730
+1/2/21,Tennessee,742
+1/9/21,Tennessee,792
+1/16/21,Tennessee,641
+1/23/21,Tennessee,607
+1/30/21,Tennessee,411
+2/6/21,Tennessee,243
+2/13/21,Tennessee,48
+2/20/21,Tennessee,31
+2/27/21,Tennessee,0
+3/6/21,Tennessee,0
+10/3/20,Texas,664
+10/10/20,Texas,782
+10/17/20,Texas,562
+10/24/20,Texas,766
+10/31/20,Texas,1092
+11/7/20,Texas,1293
+11/14/20,Texas,1302
+11/21/20,Texas,1265
+11/28/20,Texas,1415
+12/5/20,Texas,1408
+12/12/20,Texas,1780
+12/19/20,Texas,1826
+12/26/20,Texas,1663
+1/2/21,Texas,2001
+1/9/21,Texas,2381
+1/16/21,Texas,2544
+1/23/21,Texas,2320
+1/30/21,Texas,1803
+2/6/21,Texas,1392
+2/13/21,Texas,877
+2/20/21,Texas,1031
+2/27/21,Texas,97
+3/6/21,Texas,0
+10/3/20,United States,6380
+10/10/20,United States,7984
+10/17/20,United States,6258
+10/24/20,United States,7465
+10/31/20,United States,8358
+11/7/20,United States,11769
+11/14/20,United States,12768
+11/21/20,United States,15126
+11/28/20,United States,16283
+12/5/20,United States,18833
+12/12/20,United States,22459
+12/19/20,United States,22255
+12/26/20,United States,22274
+1/2/21,United States,23795
+1/9/21,United States,22767
+1/16/21,United States,22220
+1/23/21,United States,18219
+1/30/21,United States,13196
+2/6/21,United States,9683
+2/13/21,United States,3636
+2/20/21,United States,293
+2/27/21,United States,0
+3/6/21,United States,0
+10/3/20,Utah,9
+10/10/20,Utah,51
+10/17/20,Utah,34
+10/24/20,Utah,55
+10/31/20,Utah,77
+11/7/20,Utah,70
+11/14/20,Utah,97
+11/21/20,Utah,157
+11/28/20,Utah,97
+12/5/20,Utah,145
+12/12/20,Utah,160
+12/19/20,Utah,149
+12/26/20,Utah,94
+1/2/21,Utah,68
+1/9/21,Utah,111
+1/16/21,Utah,59
+1/23/21,Utah,74
+1/30/21,Utah,84
+2/6/21,Utah,51
+2/13/21,Utah,25
+2/20/21,Utah,12
+2/27/21,Utah,0
+3/6/21,Utah,0
+10/3/20,Vermont,1
+10/10/20,Vermont,6
+10/17/20,Vermont,0
+10/24/20,Vermont,22
+10/31/20,Vermont,12
+11/7/20,Vermont,11
+11/14/20,Vermont,7
+11/21/20,Vermont,0
+11/28/20,Vermont,32
+12/5/20,Vermont,30
+12/12/20,Vermont,3
+12/19/20,Vermont,19
+12/26/20,Vermont,22
+1/2/21,Vermont,9
+1/9/21,Vermont,0
+1/16/21,Vermont,17
+1/23/21,Vermont,2
+1/30/21,Vermont,0
+2/6/21,Vermont,28
+2/13/21,Vermont,5
+2/20/21,Vermont,20
+2/27/21,Vermont,21
+3/6/21,Vermont,0
+10/3/20,Virginia,175
+10/10/20,Virginia,123
+10/17/20,Virginia,77
+10/24/20,Virginia,122
+10/31/20,Virginia,156
+11/7/20,Virginia,259
+11/14/20,Virginia,118
+11/21/20,Virginia,211
+11/28/20,Virginia,175
+12/5/20,Virginia,198
+12/12/20,Virginia,345
+12/19/20,Virginia,407
+12/26/20,Virginia,431
+1/2/21,Virginia,544
+1/9/21,Virginia,528
+1/16/21,Virginia,566
+1/23/21,Virginia,619
+1/30/21,Virginia,462
+2/6/21,Virginia,490
+2/13/21,Virginia,237
+2/20/21,Virginia,156
+2/27/21,Virginia,94
+3/6/21,Virginia,0
+10/3/20,Washington,33
+10/10/20,Washington,41
+10/17/20,Washington,23
+10/24/20,Washington,52
+10/31/20,Washington,55
+11/7/20,Washington,130
+11/14/20,Washington,161
+11/21/20,Washington,169
+11/28/20,Washington,84
+12/5/20,Washington,195
+12/12/20,Washington,238
+12/19/20,Washington,179
+12/26/20,Washington,150
+1/2/21,Washington,76
+1/9/21,Washington,139
+1/16/21,Washington,82
+1/23/21,Washington,24
+1/30/21,Washington,37
+2/6/21,Washington,39
+2/13/21,Washington,0
+2/20/21,Washington,0
+2/27/21,Washington,0
+3/6/21,Washington,0
+10/3/20,West Virginia,0
+10/10/20,West Virginia,53
+10/17/20,West Virginia,8
+10/24/20,West Virginia,11
+10/31/20,West Virginia,19
+11/7/20,West Virginia,57
+11/14/20,West Virginia,85
+11/21/20,West Virginia,59
+11/28/20,West Virginia,100
+12/5/20,West Virginia,158
+12/12/20,West Virginia,164
+12/19/20,West Virginia,203
+12/26/20,West Virginia,166
+1/2/21,West Virginia,210
+1/9/21,West Virginia,191
+1/16/21,West Virginia,143
+1/23/21,West Virginia,71
+1/30/21,West Virginia,52
+2/6/21,West Virginia,0
+2/13/21,West Virginia,0
+2/20/21,West Virginia,0
+2/27/21,West Virginia,0
+3/6/21,West Virginia,0
+10/3/20,Wisconsin,120
+10/10/20,Wisconsin,117
+10/17/20,Wisconsin,189
+10/24/20,Wisconsin,330
+10/31/20,Wisconsin,382
+11/7/20,Wisconsin,525
+11/14/20,Wisconsin,642
+11/21/20,Wisconsin,588
+11/28/20,Wisconsin,553
+12/5/20,Wisconsin,567
+12/12/20,Wisconsin,484
+12/19/20,Wisconsin,394
+12/26/20,Wisconsin,283
+1/2/21,Wisconsin,263
+1/9/21,Wisconsin,222
+1/16/21,Wisconsin,66
+1/23/21,Wisconsin,87
+1/30/21,Wisconsin,17
+2/6/21,Wisconsin,2
+2/13/21,Wisconsin,2
+2/20/21,Wisconsin,0
+2/27/21,Wisconsin,0
+3/6/21,Wisconsin,0
+10/3/20,Wyoming,21
+10/10/20,Wyoming,6
+10/17/20,Wyoming,8
+10/24/20,Wyoming,31
+10/31/20,Wyoming,12
+11/7/20,Wyoming,37
+11/14/20,Wyoming,31
+11/21/20,Wyoming,31
+11/28/20,Wyoming,33
+12/5/20,Wyoming,13
+12/12/20,Wyoming,35
+12/19/20,Wyoming,59
+12/26/20,Wyoming,22
+1/2/21,Wyoming,21
+1/9/21,Wyoming,19
+1/16/21,Wyoming,6
+1/23/21,Wyoming,6
+1/30/21,Wyoming,13
+2/6/21,Wyoming,5
+2/13/21,Wyoming,2
+2/20/21,Wyoming,2
+2/27/21,Wyoming,0
+3/6/21,Wyoming,0
